@@ -1,6 +1,6 @@
 # 🧾 MERN Stack Job Application Tracker
 
-Welcome! This is my ongoing tracker for MERN Stack developer job and internship applications.
+Welcome! This is my ongoing tracker for MERN Stack developer job and internship applications..
 
 - Each entry shows the company, position, application date, location, platform, status, and interview info.
 - Details are presented in easy-to-copy code blocks for CLI and editor-friendly usage.
