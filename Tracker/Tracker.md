@@ -35,4 +35,5 @@
 🔗 Job Link: https://internshala.com/internship/detail/work-from-home-front-end...
 </code></pre>
 
-🔗 <a href="https://internshala.com/internship/detail/work-from-home-front-end..." target="_blank">Click to View Job</a>
+- 🔗 [Job Link](https://internshala.com/internship/detail/work-from-home-front-end...) https://internshala.com/internship/detail/work-from-home-front-end...
+  🔗 <a href="https://internshala.com/internship/detail/work-from-home-front-end..." target="_blank">Click to View Job</a>
