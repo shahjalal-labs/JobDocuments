@@ -69,17 +69,35 @@ This tracker lives in Markdown for seamless CLI/Neovim/GitHub workflow integrati
 
 ---
 
-### `🏭 Aadi Foundation — Front-End Developer`
+### 3. 🏭 Tech Spark — Web Developer (Remote/Hybrid)
 
 <pre><code>
-📅 Applied On: 13-06-24
-🌐 Location: Delhi, India (Remote)
-🧭 Platform: Internshala
-⏳ Status: 🟡 Pending
+📅 Applied On: 18-07-25
+💰 Stipend/Salary: Not mentioned (likely performance-based or negotiable)
+⏰ Hours: Full-time (exact hours not specified)
+🧰 Stack: HTML, CSS, JavaScript, React.js, Node.js, REST APIs, Git
 📆 Interview Date: (Not yet scheduled)
+🌐 Location: Remote / Hybrid (Bangladesh)
+🧭 Platform: Talent Search Post
+⏳ Status: 🟡 Pending
 </code></pre>
 
-🔗 [Link](https://internshala.com/internship/detail/work-from-home-front-end...) `https://internshala.com/internship/detail/work-from-home-front-end`
+🔗 [LinkedIn](https://www.linkedin.com/posts/talent-search-global_techspark-hiringnow-webdeveloper-activity-7351093318589538304-PBVW?utm_source=share&utm_medium=member_android&rcm=ACoAADK6MyIBht8_dM_6QgxnISe9nxlWotDIS1w) <br />
+🔗 [Apply via Email](mailto:techsparkbd.official@gmail.com) `techsparkbd.official@gmail.com` <br />
+
+<details>
+<summary>📓 Notes</summary>
+
+- Position: Web Developer
+- Proficiency required in HTML, CSS, JavaScript, React.js, Node.js
+- Familiarity with responsive design, REST APIs, Git
+- Backend knowledge is a plus
+- Strong teamwork and problem-solving skills expected
+- Remote or hybrid work mode
+- Minimum HSC required, freshers with strong portfolios encouraged
+- No stipend or salary mentioned explicitly
+- Application deadline: **30 July 2025**
+</details>
 
 ---
 
