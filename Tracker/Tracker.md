@@ -12,17 +12,21 @@ This tracker lives in Markdown for seamless CLI/Neovim/GitHub workflow integrati
 
 ---
 
-### `🏭 Aadi Foundation — Front-End Developer`
+### 1. `🏭 DS Legends Pte. Ltd (Singapore, Remote) — Full-Stac Developer`
 
 <pre><code>
-📅 Applied On: 13-06-24
+📅 Applied On: 18-07-25
 📆 Interview Date: (Not yet scheduled)
-🌐 Location: Delhi, India (Remote)
-🧭 Platform: Internshala
+🌐 Location: Remote (Singapore) GMT +8
+🧭 Platform: JP Discord
 ⏳ Status: 🟡 Pending
+💰 Stipend/Salary : 150 SGD 13,800 BDT / Monthly
+⏰ Hours: 12 PM – 9 PM SG (GMT+8) → 10 AM – 7 PM BD time (GMT+6)
+🧰 Stack: Next.js, Node.js, Express.js, MongoDB
 </code></pre>
 
-🔗 [Link](https://internshala.com/internship/detail/work-from-home-front-end...) `https://internshala.com/internship/detail/work-from-home-front-end`
+🔗 [DS Legends Pte. Ltd ](https://dsl.sg/) `https://dsl.sg/`
+🔗 [Job Link](https://discord.com/channels/1391805056957026364/1391809512100462592/1395543833432821801) `https://discord.com/channels/1391805056957026364/1391809512100462592/1395543833432821801`
 
 <details>
 <summary>📓 Notes</summary>
@@ -73,5 +77,6 @@ This tracker lives in Markdown for seamless CLI/Neovim/GitHub workflow integrati
 </code></pre>
 
 🔗 [Link](https://internshala.com/internship/detail/work-from-home-front-end...) `https://internshala.com/internship/detail/work-from-home-front-end`
+ami
 
 ---
