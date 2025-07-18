@@ -38,25 +38,7 @@ This tracker lives in Markdown for seamless CLI/Neovim/GitHub workflow integrati
 
 ---
 
-### 2. `🏭 DS Legends Pte. Ltd (Singapore, Remote) — Full-Stack Engineering Intern`
-
-<pre><code>
-📅 Applied On: 18-07-25
-💰 Stipend/Salary :  20,000 BDT / Monthly
-⏰ Hours: 9H 10 AM – 7 PM  (GMT+6)→ 12 PM – 9 PM SG (GMT+8) 
-🧰 Stack: Next.js, Node.js, Express.js, MongoDB
-📆 Interview Date: (Not yet scheduled)
-🌐 Location: Remote (Singapore) GMT +8
-🧭 Platform: JP Discord
-⏳ Status: 🟡 Pending
-</code></pre>
-
-🔗 [DS Legends Pte. Ltd ](https://dsl.sg/) `https://dsl.sg/`
-🔗 [Job Link](https://discord.com/channels/1391805056957026364/1391809512100462592/1395543833432821801) `https://discord.com/channels/1391805056957026364/1391809512100462592/1395543833432821801`
-
----
-
-### 2. 🏭Code:LLLX — Full-Stack Engineering Intern
+### 2. 🏭 Code:LLLX — Full-Stack Engineering Intern
 
 <pre><code>
 📅 Applied On: 18-07-25
