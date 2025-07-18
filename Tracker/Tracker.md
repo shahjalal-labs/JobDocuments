@@ -25,7 +25,7 @@ This tracker lives in Markdown for seamless CLI/Neovim/GitHub workflow integrati
 ⏳ Status: 🟡 Pending
 </code></pre>
 
-🔗 [DS Legends Pte. Ltd ](https://dsl.sg/) `https://dsl.sg/`
+🔗 [DS Legends Pte. Ltd ](https://dsl.sg/) `https://dsl.sg/` <br />
 🔗 [Job Link](https://discord.com/channels/1391805056957026364/1391809512100462592/1395543833432821801) `https://discord.com/channels/1391805056957026364/1391809512100462592/1395543833432821801`
 
 <details>
@@ -54,17 +54,36 @@ This tracker lives in Markdown for seamless CLI/Neovim/GitHub workflow integrati
 🔗 [DS Legends Pte. Ltd ](https://dsl.sg/) `https://dsl.sg/`
 🔗 [Job Link](https://discord.com/channels/1391805056957026364/1391809512100462592/1395543833432821801) `https://discord.com/channels/1391805056957026364/1391809512100462592/1395543833432821801`
 
-### `🏭 Aadi Foundation — Front-End Developer`
+---
+
+### 2. 🏭Code:LLLX — Full-Stack Engineering Intern
 
 <pre><code>
-📅 Applied On: 13-06-24
-🌐 Location: Delhi, India (Remote)
-🧭 Platform: Internshala
-⏳ Status: 🟡 Pending
+📅 Applied On: 18-07-25
+💰 Stipend/Salary: Up to 20,000 BDT / Monthly (negotiable for outstanding candidates)
+⏰ Hours: ~20H/week (Flexible schedule)
+🧰 Stack: React, Next.js, Tailwind CSS, Node.js, TypeScript
 📆 Interview Date: (Not yet scheduled)
+🌐 Location: Remote (Singapore but Bangladesh preferred) GMT+6
+🧭 Platform: JP Discord
+⏳ Status: 🟡 Pending
 </code></pre>
 
-🔗 [Link](https://internshala.com/internship/detail/work-from-home-front-end...) `https://internshala.com/internship/detail/work-from-home-front-end`
+🔗 [DS Legends Pte. Ltd ](https://dsl.sg/) `https://dsl.sg/` <br />
+🔗 [Job Link](https://discord.com/channels/1391805056957026364/1391809512100462592/1395543833432821801) `https://discord.com/channels/1391805056957026364/1391809512100462592/1395543833432821801` <br />
+🔗 [GForm Link](https://forms.gle/6NGpjNy89tP7hHQZ9) `https://forms.gle/6NGpjNy89tP7hHQZ9`
+
+<details>
+<summary>📓 Notes</summary>
+
+- Code: LLLX
+- Internship Duration: 3–6 months, flexible
+- Conversational/Fluent English preferred
+- Will work directly with senior engineers on real-world systems
+- Mentorship, code reviews, internal tools & AI-related projects
+- Certificate provided + potential for full-time offer
+- Deadline to apply: 18 July, 10 PM (applied before deadline)
+</details>
 
 ---
 
