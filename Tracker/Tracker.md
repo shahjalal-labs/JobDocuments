@@ -16,15 +16,22 @@ This tracker lives in Markdown for seamless CLI/Neovim/GitHub workflow integrati
 
 <pre><code>
 📅 Applied On: 13-06-24
+📆 Interview Date: (Not yet scheduled)
 🌐 Location: Delhi, India (Remote)
 🧭 Platform: Internshala
 ⏳ Status: 🟡 Pending
-📆 Interview Date: (Not yet scheduled)
+🗒️ Notes:  Available
 </code></pre>
 
 🔗 [Link](https://internshala.com/internship/detail/work-from-home-front-end...) `https://internshala.com/internship/detail/work-from-home-front-end`
 
----
+<details>
+<summary>📓 Notes</summary>
+
+- Based in Delhi, works remotely.
+- Likely React/HTML/CSS, but no stack mentioned.
+- Consider customizing your cover letter for NGO-related work.
+</details>
 
 ### `🏭 Aadi Foundation — Front-End Developer`
 
