@@ -23,3 +23,16 @@
 ```
 
 ---
+
+### `🏭 Aadi Foundation — Front-End Developer`
+
+<pre><code>
+📅 Applied On: 13-06-24
+🌐 Location: Delhi, India (Remote)
+🧭 Platform: Internshala
+⏳ Status: 🟡 Pending
+📆 Interview Date: (Not yet scheduled)
+🔗 Job Link: https://internshala.com/internship/detail/work-from-home-front-end...
+</code></pre>
+
+🔗 <a href="https://internshala.com/internship/detail/work-from-home-front-end..." target="_blank">Click to View Job</a>
