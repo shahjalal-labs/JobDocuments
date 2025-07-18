@@ -78,11 +78,12 @@ This tracker lives in Markdown for seamless CLI/Neovim/GitHub workflow integrati
 🧰 Stack: HTML, CSS, JavaScript, React.js, Node.js, REST APIs, Git
 📆 Interview Date: (Not yet scheduled)
 🌐 Location: Remote / Hybrid (Bangladesh)
-🧭 Platform: Talent Search Post
+🧭 Platform: JP Discord, LinkedIn
 ⏳ Status: 🟡 Pending
 </code></pre>
 
 🔗 [LinkedIn](https://www.linkedin.com/posts/talent-search-global_techspark-hiringnow-webdeveloper-activity-7351093318589538304-PBVW?utm_source=share&utm_medium=member_android&rcm=ACoAADK6MyIBht8_dM_6QgxnISe9nxlWotDIS1w) <br />
+🔗 [Discord](mailto:techsparkbd.official@gmail.com) `techsparkbd.official@gmail.com` <br />
 🔗 [Apply via Email](mailto:techsparkbd.official@gmail.com) `techsparkbd.official@gmail.com` <br />
 
 <details>
