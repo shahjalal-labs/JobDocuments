@@ -165,10 +165,8 @@
 🧭 Platform: Internshala
 ⏳ Status: 🟡 Pending
 📆 Interview Date: (Not yet scheduled)
-🔗 Job Link: https://internshala.com/internship/detail/work-from-home-front-end...
 </code></pre>
 
-- 🔗 [Job Link](https://internshala.com/internship/detail/work-from-home-front-end...) https://internshala.com/internship/detail/work-from-home-front-end... <br />
-- 🔗 <a href="https://internshala.com/internship/detail/work-from-home-front-end..." target="_blank">Click to View Job</a>
+- 🔗 [Link](https://internshala.com/internship/detail/work-from-home-front-end...) `https://internshala.com/internship/detail/work-from-home-front-end... <br />`
 
 ---
