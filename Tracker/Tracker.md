@@ -16,13 +16,13 @@ This tracker lives in Markdown for seamless CLI/Neovim/GitHub workflow integrati
 
 <pre><code>
 📅 Applied On: 18-07-25
+💰 Stipend/Salary : 150 SGD 13,800 BDT / Monthly
+⏰ Hours: 10 AM – 7 PM (GMT+6)→ 12 PM – 9 PM SG (GMT+8) 
+🧰 Stack: Next.js, Node.js, Express.js, MongoDB
 📆 Interview Date: (Not yet scheduled)
 🌐 Location: Remote (Singapore) GMT +8
 🧭 Platform: JP Discord
 ⏳ Status: 🟡 Pending
-💰 Stipend/Salary : 150 SGD 13,800 BDT / Monthly
-⏰ Hours: 12 PM – 9 PM SG (GMT+8) → 10 AM – 7 PM BD time (GMT+6)
-🧰 Stack: Next.js, Node.js, Express.js, MongoDB
 </code></pre>
 
 🔗 [DS Legends Pte. Ltd ](https://dsl.sg/) `https://dsl.sg/`
