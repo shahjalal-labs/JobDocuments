@@ -102,16 +102,234 @@ This tracker lives in Markdown for seamless CLI/Neovim/GitHub workflow integrati
 
 ---
 
-### `🏭 Aadi Foundation — Front-End Developer`
+### 4. `🏢 BairesDev — Junior JavaScript Developer 2025-08-04 Remote  `
 
 <pre><code>
-📅 Applied On: 13-06-24
-🌐 Location: Delhi, India (Remote)
-🧭 Platform: Internshala
+📅 Applied On: 2025-08-04
+💰 Stipend/Salary : "Excellent Compensation" in USD ≈ Negotiable BDT / Monthly
+⏰ Hours: Flexible Bangladesh Time → Flexible Global Timezones
+🧰 Stack: JavaScript, HTML5, CSS3, Git, Algorithms/Data Structures
+📆 Interview Date: Not yet scheduled
+🌐 Location: Remote (Global) — Flexible Timezone
+🧭 Platform: Company career site or direct application
 ⏳ Status: 🟡 Pending
-📆 Interview Date: (Not yet scheduled)
 </code></pre>
 
-🔗 [Link](https://internshala.com/internship/detail/work-from-home-front-end...) `https://internshala.com/internship/detail/work-from-home-front-end`
+🔗 [Company Website](https://www.bairesdev.com) `https://www.bairesdev.com` <br />
+🔗 [Job Link](https://applicants.bairesdev.com/job/289/283757/apply?utm_source=linkedinjobposting&utm_medium=atsjobs&utm_campaign=jobpostingxml&lang=en)
+
+<details>
+<summary>📓 Notes</summary>
+
+- Salary not disclosed, but likely higher than regional averages.
+- Stack is beginner-friendly and a good fit for recent grads or 1–2 years experience.
+
+## </details>
+
+---
+
+### 5. `🏢 Emerging Africa Group — Backend Engineer (Node.js)`
+
+<pre><code>
+📅 Applied On: 2025-08-04
+💰 Stipend/Salary : Not disclosed ≈ N/A BDT / Monthly
+⏰ Hours: Bangladesh Time → Lagos (GMT+1)
+🧰 Stack: Node.js, Java, PHP, Databases, APIs
+📆 Interview Date: Not yet scheduled
+🌐 Location: Lagos, Nigeria (Hybrid) — GMT+1
+🧭 Platform: Email (careers@emergingafricagroup.com)
+⏳ Status: 🟡 Pending
+</code></pre>
+
+🔗 [Company Website](https://www.emergingafricagroup.com) `https://www.emergingafricagroup.com` <br />
+🔗 [Job Link](https://www.linkedin.com/posts/onyishivictorchetachi_requirements-requirements-activity-7358045281851977730-t_aw?utm_source=social_share_send&utm_medium=android_app&rcm=ACoAADK6MyIBht8_dM_6QgxnISe9nxlWotDIS1w&utm_campaign=copy_link) `Job posted on LinkedIn or internal page`
+
+<details>
+<summary>📓 Notes</summary>
+
+- Node.js makes this partly relevant to MERN developers, but no React or frontend focus is listed.
+
+- Use the subject line format: `Backend Engineer – [Your Name]`
+</details>
+
+---
+
+### 6. `🏢 Apex Engineering — Full Stack Development Intern`
+
+<pre><code>
+📅 Applied On: 2025-08-04
+💰 Stipend/Salary : ₹20,000 ≈ ৳28,800 BDT / Monthly
+⏰ Hours: Bangladesh Time → IST (Flexible)
+🧰 Stack: JavaScript, Node.js, ReactJS, HTML, CSS, MongoDB, Python, PHP, MySQL
+📆 Interview Date: Not yet scheduled
+🌐 Location: Remote (Work from Home) — GMT+5:30
+🧭 Platform: Internshala
+⏳ Status: 🟡 Pending
+</code></pre>
+
+🔗 [Company Website](https://www.apexengineering.net) `https://www.apexengineering.net` <br />
+🔗 [Job Link](https://internshala.com/internship/detail/work-from-home-full-stack-development-internship-at-apex-engineering1754131997?referral=student_digest_active) `internshala.com`
+
+<details>
+<summary>📓 Notes</summary>
+
+- High stack diversity; mention MERN skills specifically.
+- Highlight internship availability and eagerness to accept job offer post-internship.
+</details>
+
+---
+
+### 7. `🏢 Apex Engineering — Frontend Developer Intern`
+
+<pre><code>
+📅 Applied On: 2025-08-04
+💰 Stipend/Salary : ₹20,000 ≈ ৳28,800 BDT / Monthly
+⏰ Hours: Bangladesh Time → IST (Flexible)
+🧰 Stack: HTML, CSS, JavaScript, Bootstrap
+📆 Interview Date: Not yet scheduled
+🌐 Location: Remote (Work from Home) — GMT+5:30
+🧭 Platform: Internshala
+⏳ Status: 🟡 Pending
+</code></pre>
+
+🔗 [Company Website](https://www.apexengineering.net) `https://www.apexengineering.net` <br />
+🔗 [Job Link](https://internshala.com/internship/detail/work-from-home-front-end-development-internship-at-apex-engineering1754132260?referral=student_digest_active) `internshala.com`
+
+<details>
+<summary>📓 Notes</summary>
+
+- Emphasize React expertise in application even though it's listed as optional.
+- Focus on clean UI work and Figma-to-code experience.
+</details>
+
+---
+
+### 8. `🏢 Garud — Full-Stack Developer (Intern)`
+
+<pre><code>
+📅 Applied On: 2025-08-04💰 Stipend/Salary : ₹ 20,000 – ₹ 1,10,000 ≈ BDT 28,800 – 158,400 / Monthly
+⏰ Hours: Bangladesh Time → IST (GMT+5:30)
+🧰 Stack: HTML, CSS, JavaScript, React, Flask, Node.js, PostgreSQL, Supabase, Docker
+📆 Interview Date: Not yet scheduled
+🌐 Location: Remote / Work From Home (IST)
+🧭 Platform: Internshala
+⏳ Status: 🟡 Pending
+</code></pre>
+
+🔗 [Company Website](https://garudlabs.in) `https://garudlabs.in` <br />
+🔗 [Job Link](https://internshala.com/internship/detail/work-from-home-full-stack-developer-internship-at-garud1751540727?referral=student_digest_active) `internshala.com/internship/detail/...`
+
+<details>
+<summary>📓 Notes</summary>
+
+- Stipend includes ₹10,000/month fixed incentive; max total: ₹1,10,000/month.
+- Incentives likely depend on performance; start from ₹10,000 fixed base.
+- Stack includes both frontend (React, HTML, CSS) and backend (Node.js, Flask, PostgreSQL).
+- Deployment experience (Docker, Render/Railway) highly valued.
+- Tailor application by highlighting full-stack project experience and open-source contributions.
+</details>
+
+---
+
+### 9. `🏢 FynTune Solution Pvt Ltd — ReactJS Developer (Intern)`
+
+<pre><code>
+📅 Applied On: 2025-08-04💰 Stipend/Salary : ₹ 18,000 – ₹ 25,000 ≈ BDT 25,920 – 36,000 / Monthly
+⏰ Hours: Bangladesh Time → IST (GMT+5:30)
+🧰 Stack: React.js, JavaScript, Tailwind CSS, Redux, REST API
+📆 Interview Date: Not yet scheduled
+🌐 Location: Navi Mumbai, In-office (IST)
+🧭 Platform: Internshala
+⏳ Status: 🟡 Pending
+</code></pre>
+
+🔗 [Company Website](https://www.fyntune.com) `https://www.fyntune.com` <br />
+🔗 [Job Link](https://internshala.com/internship/detail/reactjs-development-internship-in-navi-mumbai-at-fyntune-solution-private-limited1754292787) `internshala.com/internship/detail/...`
+
+<details>
+<summary>📓 Notes</summary>
+
+- **In-office only**: Must be available in Navi Mumbai for 6 months full-time.
+- TypeScript is mentioned as a _preferred_ skill but not mandatory.
+</details>
+
+---
+
+### 10. `🏢 Apex Engineering — Front End Developer (Intern)`
+
+<pre><code>
+📅 Applied On: 2025-08-04💰 Stipend/Salary : ₹ 20,000 ≈ BDT 28,800 / Monthly
+⏰ Hours: Bangladesh Time → IST (GMT+5:30)
+🧰 Stack: HTML, CSS, JavaScript, React.js, Vue.js, Bootstrap
+📆 Interview Date: Not yet scheduled
+🌐 Location: Remote (Work from Home) – IST
+🧭 Platform: Internshala
+⏳ Status: 🟡 Pending
+</code></pre>
+
+🔗 [Company Website](https://www.apexengineering.in) `https://www.apexengineering.in` <br />
+🔗 [Job Link](https://internshala.com/internship/detail/work-from-home-front-end-development-internship-at-apex-engineering1754132260) `internshala.com/internship/detail/...`
+
+<details>
+<summary>📓 Notes</summary>
+
+- Post-internship **job offer of ₹4 LPA** is mentioned — likely competitive placement.
+- Heavy emphasis on **design implementation from Figma/XD**, responsiveness, and performance.
+- Bubble.io is mentioned — likely for no-code components or internal tools.
+- Collaboration with backend developers and API integration included.
+- Good opportunity for candidates who want real-world frontend exposure in React/Vue ecosystem.
+- Company domain used is assumed to be correct based on Indian engineering/IT service naming.
+</details>
+
+---
+
+### 11. `🌐 NoFeeSwap — Web Developer (Intern, Part-Time)`
+
+<pre><code>
+📅 Applied On: 2025-08-04 💰 Stipend: ₹25,000–26,000 ≈ BDT 36,000–37,400 / Monthly
+🕒 Type: Part-Time | Duration: 2 Months
+🧰 Stack: HTML, CSS, JavaScript, React, Node.js
+📆 Interview Date: Not yet scheduled
+🌐 Location: Remote (Work from Home) – IST
+🧭 Platform: Internshala
+⏳ Status: 🟡 Pending
+</code></pre>
+
+🔗 [Company Website](https://nofeeswap.com) `https://nofeeswap.com`  
+🔗 [Job Link](https://internshala.com/internship/detail/work-from-home-part-time-web-developer-internship-at-nofeeswap1754050994) `internshala.com/internship/detail/...`
+
+<details>
+<summary>📓 Notes</summary>
+
+- Short duration (2 months) makes it ideal for quick experience.
+- **High stipend** for part-time work.
+
+</details>
+
+---
+
+### 12. `🏢 Isourse — Frontend Developer (Intern, In-Office)`
+
+<pre><code>
+📅 Applied On: 2025-08-04 💰 Stipend: ₹23,000–34,000 ≈ BDT 33,000–49,000 / Monthly
+🕒 Type: Full-time (In-Office, Delhi) | Duration: 6 Months
+🧰 Stack: React, Redux, HTML, CSS, JS, Bootstrap, MUI, Tailwind, TypeScript, Next.js (preferred)
+📆 Internship Window: Between 30th Jul – 3rd Sep
+🎯 Post-Internship Offer: ₹4.5 – ₹6 LPA
+⏳ Status: 🟡 Pending
+</code></pre>
+
+🔗 [Company Website](https://isourse.com) `https://isourse.com`  
+🔗 [Job Link](https://internshala.com/internship/detail/front-end-development-internship-in-delhi-at-isourse1753859616) `internshala.com/internship/detail/...`
+
+<details>
+<summary>📓 Notes</summary>
+
+- Excellent stipend for an internship, with **incentive bonus up to ₹9,000** monthly.
+- Real-world work with **React, Redux, TypeScript, Next.js** — perfect for MERN stack learners.
+- Hands-on UI work with **Bootstrap, Material UI, TailwindCSS**.
+- In-office role at a **tech-focused logistics company** — might expose you to scalable product environments.
+- Post-internship offer of up to **₹6 LPA** is competitive.
+</details>
 
 ---
