@@ -334,4 +334,27 @@ This tracker lives in Markdown for seamless CLI/Neovim/GitHub workflow integrati
 
 ---
 
+### 13. `DIAL2SUPPORT — Jr. Executive - Web Development`
+
+<pre><code>
+📅 Applied On: 2025-08-04
+💰 Stipend/Salary: TK. 20,000-30,000 ≈ BDT 20,000-30,000 / Monthly
+⏰ Hours: 10:00 AM - 7:00 PM Bangladesh Time → 10:00 AM - 7:00 PM (BST, GMT+6)
+🧰 Stack: not clear
+📆 Interview Date: Not yet scheduled
+🌐 Location: Savar DOHS, Ashulia, Dhaka, Bangladesh (GMT+6)
+🧭 Platform: shomvob  Email (hr@dial2support.net)
+⏳ Status: 🟡 Pending
+</code></pre>
+
+🔗 [Company Website](url) `url` <br />
+🔗 [Job Link](https://app.shomvob.co/single_job_description?id=15660) `link`
+
+<details>
+<summary>📓 Notes</summary>
+
+- Required tech stack focuses heavily on web development for e-commerce and drop-shipping sites with PHP frameworks and WordPress.
+- Experience with hosting tools (cPanel, Webuzu) and domain management is mandatory.
+</details>
+
 ---
