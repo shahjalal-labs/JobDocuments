@@ -358,3 +358,27 @@ This tracker lives in Markdown for seamless CLI/Neovim/GitHub workflow integrati
 </details>
 
 ---
+
+### 14. `🏢 Backbencher Studio — Backend Developer (Node.js/NestJS)`
+
+<pre><code>
+📅 Applied On: 2025-08-04
+💰 Stipend/Salary : ৳20,500–30,000 / Monthly (Original: 20.5k–30k BDT)
+⏰ Hours: 9 AM–6 PM GMT+6 → Local Time (Desk Job, 6 days/week)
+🧰 Stack: Node.js, NestJS, TypeScript, PostgreSQL/MongoDB/MySQL, JWT/OAuth/Passport.js
+📆 Interview Date: Not yet scheduled
+🌐 Location: Joypurhat Tower, Banasree Main Road, Dhaka 1219 (GMT+6)
+🧭 Platform: Facebook Post + Website Form
+⏳ Status: 🟡 Pending
+</code></pre>
+
+🔗 [Company Website](https://backbencher.studio) `https://backbencher.studio`  
+🔗 [Job Link](https://www.facebook.com/werbackbencher/posts/pfbid0ceC3xn3C6bfihhY1nNFNEACsgZJ4CLUCLKzrXBFa36u9Qy85vC6XuYbvdHfeFm2sl) `facebook.com/werbackbencher/...`
+
+<details>
+<summary>📓 Notes</summary>
+- Strong preference for **NestJS** over Express.
+- TypeScript proficiency essential; full-stack bonus for frontend framework knowledge (React/Vue).
+</details>
+
+---
