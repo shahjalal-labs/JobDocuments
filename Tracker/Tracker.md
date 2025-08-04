@@ -382,3 +382,32 @@ This tracker lives in Markdown for seamless CLI/Neovim/GitHub workflow integrati
 </details>
 
 ---
+
+### 1. `🏢 EForgeIT — Full-Stack Developer`
+
+<pre><code>
+📅 Applied On: 2025-08-05
+💰 Stipend/Salary : Negotiable (No specific amount mentioned)
+⏰ Hours: Flexible Remote → 8 hrs/day, 5 days/week
+🧰 Stack: JavaScript, TypeScript, React, Next.js, Node.js, Express.js
+📆 Interview Date: Not yet scheduled
+🌐 Location: 100% Remote + GMT+6 (Dhaka Compatible)
+🧭 Platform: Email Application
+⏳ Status: 🟡 Pending
+</code></pre>
+
+🔗 [Company Website](not-provided) `not-provided` <br />
+🔗 [Job Link](email-application) `zamirulkabir75@gmail.com`
+
+<details>
+<summary>📓 Notes</summary>
+
+- Italian company with 3 open positions, rolling review until Aug 7th
+- Bonus points for Laravel/PHP/Java experience and L1/L2 certifications
+- 3-round interview process: Technical task → Team interview → CEO interview
+- Strong English communication required for international collaboration
+- Payment gateway integration experience specifically mentioned as requirement
+- Emphasizes ownership mindset and ability to work independently
+</details>
+
+---
