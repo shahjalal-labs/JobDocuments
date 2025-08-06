@@ -453,3 +453,39 @@ This tracker lives in Markdown for seamless CLI/Neovim/GitHub workflow integrati
 🔗 [Job Link](https://www.linkedin.com/posts/mw-groups_hiring-freshershiring-jobopportunities-activity-7357339451766857728-_-5l?utm_source=share&utm_medium=member_android&rcm=ACoAADK6MyIBht8_dM_6QgxnISe9nxlWotDIS1w) `#`
 
 ---
+
+### 18.3 `🏢 Call Of Marketing — Web Developer - (remote) - 2025-08-06 - BDT 28.6k–35.7k/month`
+
+<pre><code>
+📅 Applied On: 2025-08-06
+💰 Stipend/Salary : ₹2,40,000 – ₹3,00,000 ≈ BDT 3,43,200 – 4,29,000 / Year ≈ BDT 28,600 – 35,750 / Monthly
+⏰ Hours: Bangladesh Time → Flexible (Original not mentioned)
+🧰 Stack: HTML, CSS, JavaScript, React, Next.js, WordPress, Shopify, Wix, Webflow, Figma, Responsive Design
+📆 Interview Date: Not yet scheduled
+🌐 Location: Remote (Work from Home) + GMT+6
+🧭 Platform: Internshala
+⏳ Status: 🟡 Pending
+</code></pre>
+
+🔗 [Company Website](https://callofmarketing.com) `https://callofmarketing.com` <br />
+🔗 [Job Link](https://internshala.com/job/detail/remote-part-time-web-developer-job-at-call-of-marketing1754472275) `https://internshala.com/job/detail/remote-part-time-web-developer-job-at-call-of-marketing1754472275`
+
+---
+
+### 19.4 `🏢 MediaCom India — Junior Web Developer - (remote) - 2025-08-06 - BDT 59.6k–95.3k/month`
+
+<pre><code>
+📅 Applied On: 2025-08-06
+💰 Stipend/Salary : ₹5,00,000 – ₹8,00,000 ≈ BDT 7,15,000 – 11,44,000 / Year ≈ BDT 59,600 – 95,300 / Monthly
+⏰ Hours: Bangladesh Time → Flexible (not specified)
+🧰 Stack: HTML, CSS, PHP, WordPress
+📆 Interview Date: Not yet scheduled
+🌐 Location: Remote (Work from Home) + GMT+6
+🧭 Platform: Internshala
+⏳ Status: 🟡 Pending
+</code></pre>
+
+🔗 [Company Website](https://www.mediacom.com/) `https://www.mediacom.com/` <br />
+🔗 [Job Link](https://internshala.com/job/detail/remote-junior-web-developer-fresher-jobs-at-mediacom-india1754472815) `https://internshala.com/job/detail/remote-junior-web-developer-fresher-jobs-at-mediacom-india1754472815`
+
+---
