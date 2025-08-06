@@ -525,3 +525,39 @@ This tracker lives in Markdown for seamless CLI/Neovim/GitHub workflow integrati
 🔗 [Job Link](https://internshala.com/job/detail/fresher-remote-associate-web-developer-job-at-mediacom-india1754283860) `https://internshala.com/job/detail/fresher-remote-associate-web-developer-job-at-mediacom-india1754283860`
 
 ---
+
+### 20.7 `🏢 Tymor Technologies — Mid Level Web Developer - (remote) - 2025-08-06 - BDT 47.6k–71.5k/month`
+
+<pre><code>
+📅 Applied On: 2025-08-06
+💰 Stipend/Salary : ₹4,00,000 – ₹6,00,000 ≈ BDT 5,72,000 – 8,58,000 / Year ≈ BDT 47,600 – 71,500 / Monthly
+⏰ Hours: Bangladesh Time → 6:00 PM – 4:00 AM GMT+6 → Original: 8:00 AM – 6:00 PM EST
+🧰 Stack: HTML, CSS, JavaScript, jQuery, PHP, MySQL, Node.js, React, WordPress
+📆 Interview Date: Not yet scheduled
+🌐 Location: Remote (Work from Home) + GMT+6
+🧭 Platform: Internshala
+⏳ Status: 🟡 Pending
+</code></pre>
+
+🔗 [Company Website](https://www.tymortechnologies.com) `https://www.tymortechnologies.com` <br />
+🔗 [Job Link](https://internshala.com/job/detail/remote-mid-level-web-developer-job-at-tymor-technologies1754024618) `https://internshala.com/job/detail/remote-mid-level-web-developer-job-at-tymor-technologies1754024618`
+
+---
+
+### 20.8 `🏢 Marcstrat LTD — Web Developer - (remote)- 2025-08-06 - BDT 2,56,000/year`
+
+<pre><code>
+📅 Applied On: 2025-08-06
+💰 Stipend/Salary : ₹2,00,000/year ≈ BDT 2,56,000 / ~21,333 BDT Monthly
+⏰ Hours: Bangladesh Time → Flexible (UK BST)
+🧰 Stack: HTML, CSS, JavaScript, PHP, WordPress, MySQL
+📆 Interview Date: Not yet scheduled
+🌐 Location: Remote (Company HQ: London, UK - GMT+1)
+🧭 Platform: Internshala Job Portal
+⏳ Status: 🟡 Pending
+</code></pre>
+
+🔗 [Company Website](https://marcstrat.com) `https://marcstrat.com` <br />
+🔗 [Job Link](https://internshala.com/job/detail/remote-part-time-web-developer-job-at-marcstrat-ltd1753868618) `https://internshala.com/job/detail/remote-part-time-web-developer-job-at-marcstrat-ltd1753868618`
+
+---
