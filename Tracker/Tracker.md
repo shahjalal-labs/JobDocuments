@@ -432,11 +432,22 @@ This tracker lives in Markdown for seamless CLI/Neovim/GitHub workflow integrati
 🔗 [Company Website](https://lnkd.in/gYdKG9J4) `https://lnkd.in/gYdKG9J4` <br />
 🔗 [Job Link](https://lnkd.in/gYdKG9J4) `https://lnkd.in/gYdKG9J4`
 
-<details>
-<summary>📓 Notes</summary>
+---
 
-- The original job post doesn't mention the company name, so it's referred to as a "US-Based Company" to reflect the source.
-- Be sure to highlight your fundamental programming skills in your application and any experience you have with JavaScript, Python, or Java.
-</details>
+### 1. `🏢 Startup (Remote) — Software Engineer`
+
+<pre><code>
+📅 Applied On: 2025-08-06
+💰 Stipend/Salary : ₹30,000–₹40,000 ≈ ৳41,700–৳55,600 / Monthly
+⏰ Hours: Bangladesh Time (GMT+6) → IST (GMT+5:30)
+🧰 Stack: ReactJS, Node.js, PostgreSQL [Material UI, REST APIs]
+📆 Interview Date: Not yet scheduled
+🌐 Location: Remote, IST (GMT+5:30)
+🧭 Platform: DM with email & Resume
+⏳ Status: 🟡 Pending
+</code></pre>
+
+🔗 [Company Website](#) `#` <br />
+🔗 [Job Link](#) `#`
 
 ---
