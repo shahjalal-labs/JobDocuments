@@ -434,7 +434,9 @@ This tracker lives in Markdown for seamless CLI/Neovim/GitHub workflow integrati
 
 ---
 
-### 1. `🏢 Startup (Remote) — Software Engineer`
+17 means total count and 2 mean today's count
+
+### 17.2 `🏢 Startup (Remote) — Software Engineer`
 
 <pre><code>
 📅 Applied On: 2025-08-06
@@ -448,6 +450,6 @@ This tracker lives in Markdown for seamless CLI/Neovim/GitHub workflow integrati
 </code></pre>
 
 🔗 [Company Website](#) `#` <br />
-🔗 [Job Link](#) `#`
+🔗 [Job Link](https://www.linkedin.com/posts/mw-groups_hiring-freshershiring-jobopportunities-activity-7357339451766857728-_-5l?utm_source=share&utm_medium=member_android&rcm=ACoAADK6MyIBht8_dM_6QgxnISe9nxlWotDIS1w) `#`
 
 ---
