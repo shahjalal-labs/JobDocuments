@@ -578,3 +578,20 @@ This tracker lives in Markdown for seamless CLI/Neovim/GitHub workflow integrati
 🔗 [Job Link](https://internshala.com/job/detail/remote-website-backend-development-team-member-job-at-armii1753775703) `https://internshala.com/job/detail/remote-website-backend-development-team-member-job-at-armii1753775703`
 
 ---
+
+### 21.10 `🏢 MediaCom India — Junior Software Developer (Remote) - 2025-Immediate - ₹5,00,000 - 8,00,000 ≈ 6,50,000 - 10,40,000 BDT / year`
+
+<pre><code>
+📅 Applied On: 2025-08-06
+💰 Salary: ₹5,00,000 - 8,00,000 per year ≈ 6,50,000 - 10,40,000 BDT per year (BDT conversion approximate at ₹1=13 BDT)
+⏰ Hours: Bangladesh Time (GMT+6) (Work from home, India Standard Time GMT+5:30)
+🧰 Stack: 
+✅ Required: JavaScript, Java, Python, HTML, C++ Programming, CSS
+🔧 Optional / Mentioned for certification: Angular, Node.js (including Node.js using JavaScript), Software Testing using JavaScript, Voice App Development, ReactJS
+📆 Interview Date: Not yet scheduled
+🌐 Location: Remote (Work from home) — India (IST GMT+5:30) converted to GMT+6 for Bangladesh
+🧭 Platform: Apply via Internshala website form
+⏳ Status: 🟡 Actively hiring, Apply by 5 Sep 2025
+</code></pre>
+
+---
