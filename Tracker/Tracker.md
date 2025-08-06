@@ -507,3 +507,21 @@ This tracker lives in Markdown for seamless CLI/Neovim/GitHub workflow integrati
 🔗 [Job Link](https://internshala.com/job/detail/fresher-remote-web-developer-job-at-valcon-infotech1754377772) `https://internshala.com/job/detail/fresher-remote-web-developer-job-at-valcon-infotech1754377772`
 
 ---
+
+### 20.6 `🏢 MediaCom India — Associate Web Developer - (remote) - 2025-08-06 - BDT 59.6k–95.3k/month`
+
+<pre><code>
+📅 Applied On: 2025-08-06
+💰 Stipend/Salary : ₹5,00,000 – ₹8,00,000 ≈ BDT 7,15,000 – 11,44,000 / Year ≈ BDT 59,600 – 95,300 / Monthly
+⏰ Hours: Bangladesh Time → Flexible (Original not specified)
+🧰 Stack: HTML, CSS, JavaScript, PHP, WordPress
+📆 Interview Date: Not yet scheduled
+🌐 Location: Remote (Work from Home) + GMT+6
+🧭 Platform: Internshala
+⏳ Status: 🟡 Pending
+</code></pre>
+
+🔗 [Company Website](https://www.mediacom.com) `https://www.mediacom.com` <br />
+🔗 [Job Link](https://internshala.com/job/detail/fresher-remote-associate-web-developer-job-at-mediacom-india1754283860) `https://internshala.com/job/detail/fresher-remote-associate-web-developer-job-at-mediacom-india1754283860`
+
+---
