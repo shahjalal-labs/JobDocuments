@@ -411,3 +411,28 @@ This tracker lives in Markdown for seamless CLI/Neovim/GitHub workflow integrati
 </details>
 
 ---
+
+## 06/08/2025 04:25 অপরাহ্ণ বুধ GMT+6 Sharifpur, Gazipur, Dhaka
+
+### 1. `🏢 US-Based Company — Software Engineer Intern`
+
+<pre><code>
+📅 Applied On: 2025-08-06
+💰 Stipend/Salary : $300 - $500/month ≈ ৳35,160 - ৳58,600 BDT / Monthly
+⏰ Hours: Bangladesh Time → US-Based Timezone
+🧰 Stack: JavaScript, Python, or Java
+📆 Interview Date: Not yet scheduled
+🌐 Location: Remote, US-Based Company
+🧭 Platform: Application Form
+⏳ Status: 🟡 Pending
+</code></pre>
+
+🔗 [Company Website](https://lnkd.in/gYdKG9J4) `https://lnkd.in/gYdKG9J4` <br />
+🔗 [Job Link](https://lnkd.in/gYdKG9J4) `https://lnkd.in/gYdKG9J4`
+
+<details>
+<summary>📓 Notes</summary>
+
+- The original job post doesn't mention the company name, so it's referred to as a "US-Based Company" to reflect the source.
+- Be sure to highlight your fundamental programming skills in your application and any experience you have with JavaScript, Python, or Java.
+</details>
