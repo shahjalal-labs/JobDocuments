@@ -489,3 +489,21 @@ This tracker lives in Markdown for seamless CLI/Neovim/GitHub workflow integrati
 🔗 [Job Link](https://internshala.com/job/detail/remote-junior-web-developer-fresher-jobs-at-mediacom-india1754472815) `https://internshala.com/job/detail/remote-junior-web-developer-fresher-jobs-at-mediacom-india1754472815`
 
 ---
+
+### 20.5 `🏢 Valcon Infotech — Web Developer - (remote) - 2025-08-06 - BDT 59.6k–95.3k/month`
+
+<pre><code>
+📅 Applied On: 2025-08-06
+💰 Stipend/Salary : ₹5,00,000 – ₹8,00,000 ≈ BDT 7,15,000 – 11,44,000 / Year ≈ BDT 59,600 – 95,300 / Monthly
+⏰ Hours: Bangladesh Time → Flexible (Original not specified)
+🧰 Stack: HTML, CSS, JavaScript, React, WordPress
+📆 Interview Date: Not yet scheduled
+🌐 Location: Remote (Work from Home) + GMT+6
+🧭 Platform: Internshala
+⏳ Status: 🟡 Pending
+</code></pre>
+
+🔗 [Company Website](https://valconinfotech.com) `https://valconinfotech.com` <br />
+🔗 [Job Link](https://internshala.com/job/detail/fresher-remote-web-developer-job-at-valcon-infotech1754377772) `https://internshala.com/job/detail/fresher-remote-web-developer-job-at-valcon-infotech1754377772`
+
+---
