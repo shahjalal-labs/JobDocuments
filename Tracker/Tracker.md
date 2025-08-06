@@ -561,3 +561,20 @@ This tracker lives in Markdown for seamless CLI/Neovim/GitHub workflow integrati
 🔗 [Job Link](https://internshala.com/job/detail/remote-part-time-web-developer-job-at-marcstrat-ltd1753868618) `https://internshala.com/job/detail/remote-part-time-web-developer-job-at-marcstrat-ltd1753868618`
 
 ---
+
+### 20.9 `🏢 ARMII — Website & Backend Developer - remote - 2025-08-06 - ₹216,000/year ≈ BDT 233,280/year`
+
+<pre><code>
+📅 Applied On: 2025-08-06  💰 Stipend/Salary : ₹216,000/year ≈ BDT 233,280/year (≈ BDT 19,440/month) / Paid per client project
+⏰ Hours: Flexible hours, Bangladesh Time (GMT+6) → Work From Home, Flexible
+🧰 Stack: APIs, CSS, HTML, Java, JavaScript, Node.js, React, REST API, WordPress
+📆 Interview Date: Not yet scheduled
+🌐 Location: Remote (Work From Home), flexible timing, GMT+6
+🧭 Platform: Internshala / ARMII official application channel
+⏳ Status: 🟡 Pending
+</code></pre>
+
+🔗 [ARMII Website](https://armii.com) `https://armii.com` <br />
+🔗 [Job Link](https://internshala.com/job/detail/remote-website-backend-development-team-member-job-at-armii1753775703) `https://internshala.com/job/detail/remote-website-backend-development-team-member-job-at-armii1753775703`
+
+---
