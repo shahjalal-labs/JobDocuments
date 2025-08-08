@@ -616,7 +616,7 @@ This tracker lives in Markdown for seamless CLI/Neovim/GitHub workflow integrati
 
 ---
 
-### 1. `🏢 Wurl — Software Engineer Intern - (remote) - 2025-08-08 - $30/hr ≈ ৳3,630/hr`
+### 26.2 `🏢 Wurl — Software Engineer Intern - (remote) - 2025-08-08 - $30/hr ≈ ৳3,630/hr`
 
 <pre><code>
 📅 Applied On: 2025-08-08  
@@ -630,6 +630,6 @@ This tracker lives in Markdown for seamless CLI/Neovim/GitHub workflow integrati
 </code></pre>
 
 🔗 [Company Website](https://www.wurl.com) `https://www.wurl.com`  
-🔗 [Job Link](https://www.linkedin.com/jobs/view/softeware-engineer-intern-at-wurl) `LinkedIn`
+🔗 [Job Link](https://www.linkedin.com/jobs/view/4280873587) `LinkedIn`
 
 ---
