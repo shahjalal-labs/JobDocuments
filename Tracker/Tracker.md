@@ -645,6 +645,7 @@ This tracker lives in Markdown for seamless CLI/Neovim/GitHub workflow integrati
 🌐 Location: Fully Remote (Client in Australia)  
 🧭 Platform: LinkedIn  
 ⏳ Status: 🟡 Pending  
+📞 Follow-Up way:  career@remoteoffice.io
 </code></pre>
 
 🔗 [Company Website](https://www.remoteoffice.io) `https://www.remoteoffice.io`  
