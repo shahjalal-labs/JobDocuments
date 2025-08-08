@@ -652,3 +652,22 @@ This tracker lives in Markdown for seamless CLI/Neovim/GitHub workflow integrati
 🔗 [Job Link](https://remoteoffice.zohorecruit.com/jobs/Careers/776047000003542245/Full-Stack-Developer?source=CareerSite) `LinkedIn`
 
 ---
+
+### 28.4 `🏢 DeepNexus.in — Front End Developer (Remote/Fresher) — 2025-08-08 — ₹5–7L = BDT 6.99–9.79L`
+
+<pre><code>
+📅 Applied On: 2025-08-08
+💰 Stipend/Salary : ₹5,00,000–7,00,000 ≈ BDT 6,99,000 – 9,79,000 / Yearly
+⏰ Hours: Bangladesh Time (GMT+6) → India Standard Time (GMT+5:30)
+🧰 Stack: React.js, Next.js
+❌ Lack Stack: MySQL, PostgreSQL, Redis, Docker, Nginx, AWS, GCP, Azure, Firebase, Netlify, Surge, Figma, Sketch, etc.
+📆 Interview Date: Not yet scheduled
+🌐 Location: Remote (Work from Home), India-based team
+🧭 Platform: Internshala
+⏳ Status: 🟡 Pending
+</code></pre>
+
+🔗 [Company Website](https://deepnexus.in) `https://deepnexus.in`  
+🔗 [Job Link](https://internshala.com/job/detail/fresher-remote-front-end-developer-job-at-deepnexusin1754641209)
+
+---
