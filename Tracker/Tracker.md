@@ -633,3 +633,21 @@ This tracker lives in Markdown for seamless CLI/Neovim/GitHub workflow integrati
 🔗 [Job Link](https://www.linkedin.com/jobs/view/4280873587) `LinkedIn`
 
 ---
+
+### 27.3 `🏢 Remote Office — Full Stack Developer (React.js & Node.js) - (remote) - 2025-08-08 - Negotiable Salary`
+
+<pre><code>
+📅 Applied On: 2025-08-08  
+💰 Stipend/Salary : Negotiable / Market Rate in BDT  
+⏰ Hours: 6:00 AM – 2:00 PM (GMT+6) → 10:00 AM – 6:00 PM (AEST / GMT+10)  
+🧰 Stack: React.js, Node.js, Express.js, HTML, CSS, JavaScript, MongoDB/PostgreSQL, AWS/GCP  
+📆 Interview Date: Not yet scheduled  
+🌐 Location: Fully Remote (Client in Australia)  
+🧭 Platform: LinkedIn  
+⏳ Status: 🟡 Pending  
+</code></pre>
+
+🔗 [Company Website](https://www.remoteoffice.io) `https://www.remoteoffice.io`  
+🔗 [Job Link](https://remoteoffice.zohorecruit.com/jobs/Careers/776047000003542245/Full-Stack-Developer?source=CareerSite) `LinkedIn`
+
+---
