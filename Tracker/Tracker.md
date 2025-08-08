@@ -688,3 +688,43 @@ This tracker lives in Markdown for seamless CLI/Neovim/GitHub workflow integrati
 🔗 [Job Link](https://internshala.com/job/detail/remote-junior-front-end-developer-job-at-netwit1754630626) `internshala.com/job/...`
 
 ---
+
+### 30.6`🏢 Sparkline Innovation Technologies — Junior Front End Developer - (remote) - 2025-08-08 - ₹15,000–20,000/month ≈ BDT 21,000–28,000 (Probation)`
+
+<pre><code>
+📅 Applied On: 2025-08-08
+💰 Stipend/Salary : ₹15,000–20,000 ≈ BDT 21,000–28,000 (Probation), then ₹3,00,000–5,00,000 ≈ BDT 420,000–700,000 /year
+⏰ Hours: Bangladesh Time → IST (GMT+5:30)
+🧰 Stack: HTML, CSS/SCSS, JavaScript, TypeScript, React/Vue/Angular, Tailwind, Bootstrap, Material UI
+❌ Lack Stack: mysql, postgres, redis, docker, nginx, aws, gcp, azure, firebase, netlify, surge, figma, sketch
+📆 Interview Date: Not yet scheduled
+🌐 Location: Remote (India-based, IST)
+🧭 Platform: Internshala
+⏳ Status: 🟡 Pending
+📞  Follow-Up way: Via Internshala
+</code></pre>
+
+🔗 [Company Website](https://sparklineit.com) `https://sparklineit.com` <br />
+🔗 [Job Link](https://internshala.com/job/detail/fresher-remote-junior-front-end-developer-job-at-sparkline-innovation-technologies-pvt-ltd1754307696) `internshala.com`
+
+---
+
+### 31.7`🏢 SK Info Techies — Front End Developer - (remote) - 2025-08-08 - ₹2,00,000–3,20,000 ≈ BDT 280,000–448,000/year`
+
+<pre><code>
+📅 Applied On: 2025-08-08
+💰 Stipend/Salary : ₹2,00,000–3,20,000 ≈ BDT 280,000–448,000/year
+⏰ Hours: Bangladesh Time → IST (GMT+5:30)
+🧰 Stack: HTML5, CSS3, JavaScript, Bootstrap, Responsive Design
+❌ Lack Stack: mysql, postgres, redis, docker, nginx, aws, gcp, azure, firebase, netlify, surge, figma, sketch
+📆 Interview Date: Not yet scheduled
+🌐 Location: Remote (India-based)
+🧭 Platform: Internshala
+⏳ Status: 🟡 Pending
+📞  Follow-Up way: Via Internshala
+</code></pre>
+
+🔗 [Company Website](https://skinfotechies.in) `https://skinfotechies.in` <br />
+🔗 [Job Link](https://internshala.com/job/detail/remote-front-end-developer-job-at-sk-info-techies1754298043) `internshala.com`
+
+---
