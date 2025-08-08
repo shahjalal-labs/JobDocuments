@@ -508,7 +508,7 @@ This tracker lives in Markdown for seamless CLI/Neovim/GitHub workflow integrati
 
 ---
 
-### 20.6 `🏢 MediaCom India — Associate Web Developer - (remote) - 2025-08-06 - BDT 59.6k–95.3k/month`
+### 21.6 `🏢 MediaCom India — Associate Web Developer - (remote) - 2025-08-06 - BDT 59.6k–95.3k/month`
 
 <pre><code>
 📅 Applied On: 2025-08-06
@@ -526,7 +526,7 @@ This tracker lives in Markdown for seamless CLI/Neovim/GitHub workflow integrati
 
 ---
 
-### 20.7 `🏢 Tymor Technologies — Mid Level Web Developer - (remote) - 2025-08-06 - BDT 47.6k–71.5k/month`
+### 22.7 `🏢 Tymor Technologies — Mid Level Web Developer - (remote) - 2025-08-06 - BDT 47.6k–71.5k/month`
 
 <pre><code>
 📅 Applied On: 2025-08-06
@@ -544,7 +544,7 @@ This tracker lives in Markdown for seamless CLI/Neovim/GitHub workflow integrati
 
 ---
 
-### 20.8 `🏢 Marcstrat LTD — Web Developer - (remote)- 2025-08-06 - BDT 2,56,000/year`
+### 23.8 `🏢 Marcstrat LTD — Web Developer - (remote)- 2025-08-06 - BDT 2,56,000/year`
 
 <pre><code>
 📅 Applied On: 2025-08-06
@@ -562,7 +562,7 @@ This tracker lives in Markdown for seamless CLI/Neovim/GitHub workflow integrati
 
 ---
 
-### 20.9 `🏢 ARMII — Website & Backend Developer - remote - 2025-08-06 - ₹216,000/year ≈ BDT 233,280/year`
+### 24.9 `🏢 ARMII — Website & Backend Developer - remote - 2025-08-06 - ₹216,000/year ≈ BDT 233,280/year`
 
 <pre><code>
 📅 Applied On: 2025-08-06  💰 Stipend/Salary : ₹216,000/year ≈ BDT 233,280/year (≈ BDT 19,440/month) / Paid per client project
@@ -579,7 +579,7 @@ This tracker lives in Markdown for seamless CLI/Neovim/GitHub workflow integrati
 
 ---
 
-### 21.10 `🏢 MediaCom India — Junior Software Developer (Remote) - 2025-Immediate - ₹5,00,000 - 8,00,000 ≈ 6,50,000 - 10,40,000 BDT / year`
+### 25.10 `🏢 MediaCom India — Junior Software Developer (Remote) - 2025-Immediate - ₹5,00,000 - 8,00,000 ≈ 6,50,000 - 10,40,000 BDT / year`
 
 <pre><code>
 📅 Applied On: 2025-08-06
@@ -595,3 +595,19 @@ This tracker lives in Markdown for seamless CLI/Neovim/GitHub workflow integrati
 </code></pre>
 
 ---
+
+### 1. `🏢 [Unnamed Company] — JavaScript Developer (Vue.js Expert) - remote - 2025-08-08 - Very Competitive Salary`
+
+<pre><code>
+📅 Applied On: 2025-08-08
+💰 Stipend/Salary: Very Competitive (Exact not stated) ≈ BDT Conversion Not Possible / Monthly
+⏰ Hours: Flexible (GMT+6 friendly) → Flexible/Not specified
+🧰 Stack: JavaScript, Vue.js, HTML5, CSS3, REST APIs, Git, Babel, Webpack
+📆 Interview Date: Not yet scheduled
+🌐 Location: Remote (No timezone constraint)
+🧭 Platform: Not mentioned
+⏳ Status: 🟡 Pending
+</code></pre>
+
+🔗 [Company Website](#) `#`  
+🔗 [Job Link](#) `#`
