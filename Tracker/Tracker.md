@@ -728,3 +728,23 @@ This tracker lives in Markdown for seamless CLI/Neovim/GitHub workflow integrati
 🔗 [Job Link](https://internshala.com/job/detail/remote-front-end-developer-job-at-sk-info-techies1754298043) `internshala.com`
 
 ---
+
+### 32.8`🏢 MediaCom India — Junior Front End Developer - (remote) - 2025-08-08 - ₹5,00,000–8,00,000 ≈ BDT 700,000–1,120,000 /year`
+
+<pre><code>
+📅 Applied On: 2025-08-08
+💰 Stipend/Salary : ₹5,00,000–8,00,000 ≈ BDT 700,000–1,120,000/year
+⏰ Hours: Bangladesh Time → IST (GMT+5:30)
+🧰 Stack: HTML, CSS, JavaScript, React
+❌ Lack Stack: mysql, postgres, redis, docker, nginx, aws, gcp, azure, firebase, netlify, surge, figma, sketch
+📆 Interview Date: Not yet scheduled
+🌐 Location: Remote (India-based)
+🧭 Platform: Internshala
+⏳ Status: 🟡 Pending
+📞  Follow-Up way: Via Internshala
+</code></pre>
+
+🔗 [Company Website](https://mediacomindia.in) `https://mediacomindia.in` <br />
+🔗 [Job Link](https://internshala.com/job/detail/fresher-remote-junior-front-end-developer-job-at-mediacom-india1754289531) `internshala.com`
+
+---
