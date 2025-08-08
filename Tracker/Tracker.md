@@ -660,7 +660,6 @@ This tracker lives in Markdown for seamless CLI/Neovim/GitHub workflow integrati
 💰 Stipend/Salary : ₹5,00,000–7,00,000 ≈ BDT 6,99,000 – 9,79,000 / Yearly
 ⏰ Hours: Bangladesh Time (GMT+6) → India Standard Time (GMT+5:30)
 🧰 Stack: React.js, Next.js
-❌ Lack Stack: MySQL, PostgreSQL, Redis, Docker, Nginx, AWS, GCP, Azure, Firebase, Netlify, Surge, Figma, Sketch, etc.
 📆 Interview Date: Not yet scheduled
 🌐 Location: Remote (Work from Home), India-based team
 🧭 Platform: Internshala
@@ -669,5 +668,23 @@ This tracker lives in Markdown for seamless CLI/Neovim/GitHub workflow integrati
 
 🔗 [Company Website](https://deepnexus.in) `https://deepnexus.in`  
 🔗 [Job Link](https://internshala.com/job/detail/fresher-remote-front-end-developer-job-at-deepnexusin1754641209)
+
+---
+
+### 29.5 `🏢 NetWit — Junior Front End Developer - (remote) - 2025-08-08 - ₹3L–5L ≈ BDT 4.27–7.12L/year`
+
+<pre><code>
+📅 Applied On: 2025-08-08
+💰 Stipend/Salary: ₹3,00,000 – ₹5,00,000 ≈ BDT 4,27,000 – 7,12,000/year ≈ BDT 35,583 – 59,333/month
+⏰ Hours: 8:30 AM – 6:30 PM (GMT+6) → Original: 8:00 AM – 6:00 PM IST
+🧰 Stack: HTML, CSS, JavaScript, ReactJS
+📆 Interview Date: Not yet scheduled
+🌐 Location: Remote (Canada-based company)
+🧭 Platform: Internshala
+⏳ Status: 🟡 Pending
+</code></pre>
+
+🔗 [Company Website](https://netwit.ca) `https://netwit.ca`  
+🔗 [Job Link](https://internshala.com/job/detail/remote-junior-front-end-developer-job-at-netwit1754630626) `internshala.com/job/...`
 
 ---
