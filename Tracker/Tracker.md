@@ -766,3 +766,23 @@ This tracker lives in Markdown for seamless CLI/Neovim/GitHub workflow integrati
 🔗 [Job Link](https://internshala.com/job/detail/remote-senior-front-end-developer-job-at-dealzup1754025264) `internshala.com`
 
 ---
+
+### 34.10`🏢 Valcon Infotech — Front End Developer (Fresher) - (remote) - 2025-08-08 - ₹4–7 LPA ≈ BDT 5.6–9.8L/year`
+
+<pre><code>
+📅 Applied On: 2025-08-08
+💰 Stipend/Salary : ₹4,00,000 – ₹7,00,000 ≈ BDT 5,60,000 – 9,80,000 /year
+⏰ Hours: Bangladesh Time → No constraints mentioned
+🧰 Stack: HTML, CSS, JS, React
+❌ Lack Stack: Angular (optional), Node.js (optional), Cypress/testing tools (optional)
+📆 Interview Date: Not yet scheduled
+🌐 Location: Remote (India-based)
+🧭 Platform: Internshala
+⏳ Status: 🟢 Strong fit
+📞 Follow-Up: Through Internshala
+</code></pre>
+
+🔗 [Job Link](https://internshala.com/job/detail/fresher-remote-front-end-developer-job-at-valcon-infotech1753939536) `internshala.com`
+🔗 [Company Website](https://valconinfotech.com) `valconinfotech.com`
+
+---
