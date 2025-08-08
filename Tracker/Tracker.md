@@ -612,6 +612,24 @@ This tracker lives in Markdown for seamless CLI/Neovim/GitHub workflow integrati
 </code></pre>
 
 🔗 [Company Website](#) `#`  
-🔗 [Job Link](#) `#`
+🔗 [Job Link](https://www.linkedin.com/jobs/view/4278297515) `#`
+
+---
+
+### 1. `🏢 Wurl — Software Engineer Intern - (remote) - 2025-08-08 - $30/hr ≈ ৳3,630/hr`
+
+<pre><code>
+📅 Applied On: 2025-08-08  
+💰 Stipend/Salary : $30/hr ≈ ৳3,630/hr / Hourly  
+⏰ Hours: Bangladesh Time → U.S. Pacific Time (GMT+6 → GMT-7)  
+🧰 Stack: JavaScript, Python, React, SQL, Git, Agile, Cloud (optional)  
+📆 Interview Date: Not yet scheduled  
+🌐 Location: Fully Remote, USA-based (Timezone: varies across U.S.)  
+🧭 Platform: LinkedIn / Job Portal  
+⏳ Status: 🟡 Pending  
+</code></pre>
+
+🔗 [Company Website](https://www.wurl.com) `https://www.wurl.com`  
+🔗 [Job Link](https://www.linkedin.com/jobs/view/softeware-engineer-intern-at-wurl) `LinkedIn`
 
 ---
