@@ -831,23 +831,3 @@ This tracker lives in Markdown for seamless CLI/Neovim/GitHub workflow integrati
 🔗 [Job Link](https://www.glassdoor.com/job-listing/full-stack-web-developer-justcoach-JV_IC1150505_KO0,24_KE25,34.htm?jl=1009838308124&utm_source=jobalert&utm_medium=email&utm_content=jazero-jobpos2-1009838308124&utm_campaign=jobAlertZero&tgt=GD_JOB_VIEW&src=GD_JOB_AD&uido=25FEE15AB8193F5FBD60C08C6C6DFD50&ao=1136043&jrtk=5-yul1-0-1j26urvnljn3r800-0c83138c7a543635&cs=1_bce73d3f&s=224&t=JA&pos=102&ja=368797169&guid=000001988dedfaedb36382dceb00481d&jobListingId=1009838308124&ea=1&vt=e&cb=1754727841687&ctt=1754727976336&srs=EMAIL_JOB_ALERT&gdir=1) `https://www.glassdoor.com/job-listing/full-stack-web-developer-justcoach-JV_IC1150505_KO0,25_KE26,35.htm`
 
 ---
-
-### 37.03 `🏢 Nearsure — Senior Frontend Web Developer - (Remote) - 2025-08-09 - USD $4,000–$6,000 ≈ BDT 472,800–709,200/month`
-
-<pre><code>
-📅 Applied On: 09/08/2025
-💰 Stipend/Salary : USD $4,000–$6,000/month ≈ BDT 472,800–709,200/month
-⏰ Hours: Bangladesh Time (GMT+6) → Original Timezone (GMT-3 to GMT-5)
-🧰 Stack: Angular v8+, TypeScript, JavaScript, HTML/CSS, REST APIs, Figma/InVision/Photoshop
-❌ Lack Stack: mysql, postgres, redis, docker, nginx, aws, gcp, azure, firebase, netlify, surge, figma, sketch, react (primary stack mismatch)
-📆 Interview Date: Not yet scheduled
-🌐 Location: Remote (LATAM-based team, works with US clients)
-🧭 Platform: Company Careers Page / Recruiter Contact
-⏳ Status: 🟡 Pending
-📞  Follow-Up way: careers@nearsure.com
-</code></pre>
-
-🔗 [Company Website](https://www.nearsure.com) `https://www.nearsure.com` <br />
-🔗 [Job Link](https://www.glassdoor.com/Job/remote-bangladesh-web-developer-jobs-SRCH_IL.0,17_IS12503_KO18,31.htm?remoteWorkType=1) `https://www.nearsure.com/careers`
-
----

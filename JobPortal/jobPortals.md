@@ -1,6 +1,6 @@
 1. [FlexJobs](https://www.flexjobs.com) `https://www.flexjobs.com`
-2. [We Work Remotely](https://weworkremotely.com) `https://weworkremotely.com`
-3. [Remote Workmate](https://remoteworkmate.com) `https://remoteworkmate.com`
+2. accoun created [We Work Remotely](https://weworkremotely.com) `https://weworkremotely.com`
+3. account created [Remote Workmate](https://remoteworkmate.com) `https://remoteworkmate.com`
 4. [FindAsync](https://findasync.com) `https://findasync.com`
 5. [Pangian](https://pangian.com) `https://pangian.com`
 6. [JustRemote](https://justremote.co) `https://justremote.co`
