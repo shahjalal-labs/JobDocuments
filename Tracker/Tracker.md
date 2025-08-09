@@ -54,6 +54,44 @@
 </code></pre>
 
 🔗 [Company Website](https://valconinfotech.com) `https://valconinfotech.com` <br />
-🔗 [Job Link](https://internshala.com/job/detail/software-engineer-fresher-job-internship-at-valcon-infotech1723205855) `https://internshala.com/job/deta...`
+🔗 [Job Link](https://internshala.com/job/detail/fresher-remote-software-engineer-job-at-valcon-infotech1754727763) `https://internshala.com/job/deta...`
+
+---
+
+### 39.05 `🏢 MediaCom India — Software Engineer (Fresher) - remote - 09/08/2025 - ৳70,833–৳1,13,333 BDT`
+
+<pre><code>
+📅 Applied On: 09/08/2025 💰 Stipend/Salary : ₹5,00,000 – ₹8,00,000 ≈ ৳70,833 – ৳1,13,333 / Monthly
+⏰ Hours: Bangladesh Time → IST (GMT+5:30)
+🧰 Stack: HTML, CSS, JavaScript, Java, Python
+❌ Lack Stack: Java, Python
+📆 Interview Date: Not yet scheduled
+🌐 Location: Remote (India) – IST (GMT+5:30)
+🧭 Platform: Internshala Application Form
+⏳ Status: 🟡 Pending
+📞  Follow-Up way: Through Internshala messaging
+</code></pre>
+
+🔗 [Company Website](https://www.mediacomindia.com) `https://www.mediacomindia.com` <br />
+🔗 [Job Link](https://internshala.com/job/detail/fresher-remote-software-engineer-job-at-mediacom-india1754726192) `https://internshala.com/job/deta...`
+
+---
+
+### 40.06 `🏢 Valcon Infotech — Junior Front End Developer - remote - 09/08/25 - ৳70,833–৳1,13,333 BDT suffix`
+
+<pre><code>
+📅 Applied On: 09/08/25 💰 Stipend/Salary : ₹5,00,000 – ₹8,00,000 ≈ ৳70,833 – ৳1,13,333 / Monthly
+⏰ Hours: Bangladesh Time → IST (GMT+5:30)
+🧰 Stack: HTML, CSS, JavaScript, React
+❌ Lack Stack: None
+📆 Interview Date: Not yet scheduled
+🌐 Location: Remote (India) – IST (GMT+5:30)
+🧭 Platform: Internshala Application Form
+⏳ Status: 🟡 Pending
+📞  Follow-Up way: Through Internshala messaging
+</code></pre>
+
+🔗 [Company Website](https://valconinfotech.com) `https://valconinfotech.com` <br />
+🔗 [Job Link](https://internshala.com/job/detail/junior-front-end-developer-fresher-job-internship-at-valcon-infotech1723205855) `https://internshala.com/job/deta...`
 
 ---
