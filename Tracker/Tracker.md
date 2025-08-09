@@ -831,3 +831,22 @@ This tracker lives in Markdown for seamless CLI/Neovim/GitHub workflow integrati
 🔗 [Job Link](https://www.glassdoor.com/job-listing/full-stack-web-developer-justcoach-JV_IC1150505_KO0,24_KE25,34.htm?jl=1009838308124&utm_source=jobalert&utm_medium=email&utm_content=jazero-jobpos2-1009838308124&utm_campaign=jobAlertZero&tgt=GD_JOB_VIEW&src=GD_JOB_AD&uido=25FEE15AB8193F5FBD60C08C6C6DFD50&ao=1136043&jrtk=5-yul1-0-1j26urvnljn3r800-0c83138c7a543635&cs=1_bce73d3f&s=224&t=JA&pos=102&ja=368797169&guid=000001988dedfaedb36382dceb00481d&jobListingId=1009838308124&ea=1&vt=e&cb=1754727841687&ctt=1754727976336&srs=EMAIL_JOB_ALERT&gdir=1) `https://www.glassdoor.com/job-listing/full-stack-web-developer-justcoach-JV_IC1150505_KO0,25_KE26,35.htm`
 
 ---
+
+### 37.03 `🏢 Bambi — Frontend Engineer - (remote)- 2025-08-09 - 1,267,500–1,852,500 BDT/month`
+
+<pre><code>
+📅 Applied On: 2025-08-09 💰 Stipend/Salary : $130k–$190k USD/year ≈ 1,267,500–1,852,500 BDT/Monthly
+⏰ Hours: Bangladesh Time → Fully flexible (async)
+🧰 Stack: JavaScript/TypeScript, React, Node.js, REST API, Cloud-first SaaS
+❌ Lack Stack: react native, aws, gcp, docker, kubernetes
+📆 Interview Date: Not yet scheduled
+🌐 Location: Remote — Anywhere (Timezone flexible)
+🧭 Platform: FindAsync job board
+⏳ Status: 🟡 Pending
+📞  Follow-Up way: via FindAsync application form (mention source)
+</code></pre>
+
+🔗 [Company Website](https://www.bambi.care) `https://www.bambi.care` <br />
+🔗 [Job Link](https://findasync.com/job/frontend-engineer-bambi) `https://findasync.com/job/frontend-engi...`
+
+---
