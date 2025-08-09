@@ -26,7 +26,7 @@ This tracker lives in Markdown for seamless CLI/Neovim/GitHub workflow integrati
 </code></pre>
 
 🔗 [DS Legends Pte. Ltd ](https://dsl.sg/) `https://dsl.sg/` <br />
-🔗 [Job Link](https://discord.com/channels/1391805056957026364/1391809512100462592/1395543833432821801) `https://discord.com/channels/1391805056957026364/1391809512100462592/1395543833432821801`
+[Job Link](https://discord.com/channels/1391805056957026364/1391809512100462592/1395543833432821801) `https://discord.com/channels/1391805056957026364/1391809512100462592/1395543833432821801`
 
 <details>
 <summary>📓 Notes</summary>
