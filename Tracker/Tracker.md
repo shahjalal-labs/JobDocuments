@@ -786,3 +786,28 @@ This tracker lives in Markdown for seamless CLI/Neovim/GitHub workflow integrati
 🔗 [Company Website](https://valconinfotech.com) `valconinfotech.com`
 
 ---
+
+`09/08/2025 11:18 পূর্বাহ্ণ শনি GMT+6 Sharifpur, Gazipur, Dhaka`
+
+---
+
+### 35.01 `🏢 EventMobi — Senior Front End Developer - Remote - 2025-08-09 - BDT 344,666–407,333/month (CAD)`
+
+<pre><code>
+📅 Applied On: 2025-08-09
+💰 Stipend/Salary : CAD 55k–65k/year ≈ BDT 344,666–407,333/month
+                   USD 25k–48,999/year ≈ BDT 243,333–476,583/month
+⏰ Hours: 7:00 PM – 3:00 AM BDT → 9:00 AM – 5:00 PM EST
+🧰 Stack: JavaScript, TypeScript, React, HTML, CSS, REST APIs, Material UI/Ant Design, Jest, RTL
+❌ Lack Stack: TypeScript (advanced), Material UI, Jest, RTL, Capacitor, Redux dynamic reducers, Docker, AWS, CI/CD
+📆 Interview Date: Not yet scheduled
+🌐 Location: Remote (EST timezone)
+🧭 Platform: wwr = we work remotely
+⏳ Status: 🟡 Pending
+📞  Follow-Up way: careers@eventmobi.com
+</code></pre>
+
+🔗 [Company Website](https://www.eventmobi.com)  
+🔗 [Job Link](https://eventmobi.bamboohr.com/careers/428)
+
+---
