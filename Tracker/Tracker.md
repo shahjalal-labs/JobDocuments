@@ -95,3 +95,22 @@
 🔗 [Job Link](https://internshala.com/job/detail/junior-front-end-developer-fresher-job-internship-at-valcon-infotech1723205855) `https://internshala.com/job/deta...`
 
 ---
+
+### 41.07 `🏢 Valcon Infotech — Front End Developer - remote - 30/08/25 - 43,333–75,833 BDT suffix`
+
+<pre><code>
+📅 Applied On: 09/08/25 💰 Stipend/Salary : ₹4,00,000–₹7,00,000/year ≈ BDT 43,333–75,833 / Monthly
+⏰ Hours: Bangladesh Time (GMT+6) → IST (GMT+5:30)
+🧰 Stack: HTML, CSS, JavaScript, React
+❌ Lack Stack: angular, jest, cypress
+📆 Interview Date: Not yet scheduled
+🌐 Location: Remote (India, IST)
+🧭 Platform: Internshala
+⏳ Status: 🟡 Pending
+📞  Follow-Up way: Internshala portal
+</code></pre>
+
+🔗 [Company Website](https://valconinfotech.com) `https://valconinfotech.com` <br />
+🔗 [Job Link](https://internshala.com/job/detail/fresher-remote-front-end-developer-job-at-valcon-infotech1753939536) `link: https://internshala.com/job/detai...`
+
+---
