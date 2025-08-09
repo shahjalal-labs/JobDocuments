@@ -19,3 +19,41 @@
 🔗 [Job Link](https://www.glassdoor.com/job-listing/full-stack-web-developer-justcoach-JV_IC1150505_KO0,24_KE25,34.htm?jl=1009838308124&utm_source=jobalert&utm_medium=email&utm_content=jazero-jobpos2-1009838308124&utm_campaign=jobAlertZero&tgt=GD_JOB_VIEW&src=GD_JOB_AD&uido=25FEE15AB8193F5FBD60C08C6C6DFD50&ao=1136043&jrtk=5-yul1-0-1j26urvnljn3r800-0c83138c7a543635&cs=1_bce73d3f&s=224&t=JA&pos=102&ja=368797169&guid=000001988dedfaedb36382dceb00481d&jobListingId=1009838308124&ea=1&vt=e&cb=1754727841687&ctt=1754727976336&srs=EMAIL_JOB_ALERT&gdir=1) `https://www.glassdoor.com/job-listing/full-stack-web-developer-justcoach-JV_IC1150505_KO0,25_KE26,35.htm`
 
 ---
+
+### 37.03 `🏢 Valcon Infotech — Software Developer (Fresher) - remote - 2025-08-09 - ৳70,833–৳1,13,333`
+
+<pre><code>
+📅 Applied On: 09/08/2025 💰 Stipend/Salary : ₹5,00,000 – ₹8,00,000 ≈ ৳70,833 – ৳1,13,333 / Monthly
+⏰ Hours: Bangladesh Time → IST (GMT+5:30)
+🧰 Stack: Java, MySQL, HTML, CSS, JavaScript
+❌ Lack Stack: Java, MySQL
+📆 Interview Date: Not yet scheduled
+🌐 Location: Remote (India) – IST (GMT+5:30)
+🧭 Platform: Internshala Application Form
+⏳ Status: 🟡 Pending
+📞  Follow-Up way: Through Internshala messaging
+</code></pre>
+
+🔗 [Company Website](https://valconinfotech.com) `https://valconinfotech.com` <br />
+🔗 [Job Link](https://internshala.com/job/detail/software-developer-fresher-job-internship-at-valcon-infotech1723205855) `https://internshala.com/job/deta...`
+
+---
+
+### 38.04 `🏢 Valcon Infotech — Software Engineer (Fresher) - remote - 2025-08-09 - ৳70,833–৳1,13,333`
+
+<pre><code>
+📅 Applied On: 09/08/2025 💰 Stipend/Salary : ₹5,00,000 – ₹8,00,000 ≈ ৳70,833 – ৳1,13,333 / Monthly
+⏰ Hours: Bangladesh Time → IST (GMT+5:30)
+🧰 Stack: HTML, CSS, Java, Python
+❌ Lack Stack: Java, Python
+📆 Interview Date: Not yet scheduled
+🌐 Location: Remote (India) – IST (GMT+5:30)
+🧭 Platform: Internshala Application Form
+⏳ Status: 🟡 Pending
+📞  Follow-Up way: Through Internshala messaging
+</code></pre>
+
+🔗 [Company Website](https://valconinfotech.com) `https://valconinfotech.com` <br />
+🔗 [Job Link](https://internshala.com/job/detail/software-engineer-fresher-job-internship-at-valcon-infotech1723205855) `https://internshala.com/job/deta...`
+
+---
