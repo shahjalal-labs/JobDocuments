@@ -832,7 +832,7 @@ This tracker lives in Markdown for seamless CLI/Neovim/GitHub workflow integrati
 
 ---
 
-### 1. `🏢 Nearsure — Senior Frontend Web Developer - (Remote) - 2025-08-09 - USD $4,000–$6,000 ≈ BDT 472,800–709,200/month`
+### 37.03 `🏢 Nearsure — Senior Frontend Web Developer - (Remote) - 2025-08-09 - USD $4,000–$6,000 ≈ BDT 472,800–709,200/month`
 
 <pre><code>
 📅 Applied On: 09/08/2025
