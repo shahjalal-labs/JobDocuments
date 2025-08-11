@@ -158,3 +158,23 @@
 🔗 [Job Link](https://internshala.com/job/detail/fresher-web-developer-job-in-bangalore-at-echotalk1754632726)
 
 ---
+
+### 44.03 `🏢 JobTread Software — JavaScript Developer - onsite - 11/08/25 - 15.8M–19.9M BDT suffix`
+
+<pre><code>
+📅 Applied On: 11/08/25 2025-08-11
+💰 Stipend/Salary : $125K–$150K + $10K–$20K Bonus ≈ BDT 15.8M–19.9M / Monthly 1.31M–1.66M
+⏰ Hours: Bangladesh Time (GMT+6) → Dallas Time (GMT-6)
+🧰 Stack: JavaScript, API Integration, API Design, Software Development (3+ yrs)
+❌ Lack Stack: construction domain, mysql, postgres, redis, docker, nginx, aws, gcp, azure
+📆 Interview Date: Not yet scheduled
+🌐 Location: Dallas, Texas, USA (GMT-6)
+🧭 Platform: Likely via company career page or listing source
+⏳ Status: 🟡 Pending
+📞  Follow-Up way: Not provided
+</code></pre>
+
+🔗 [Company Website](https://www.jobtread.com) `https://www.jobtread.com` <br />
+🔗 [Job Link](https://www.glassdoor.com/job-listing/javascript-developer-jobtread-software-JV_IC1139977_KO0,20_KE21,38.htm?jl=1009834421207&utm_source=jobalert&utm_medium=email&utm_term=jac2jvar&utm_content=ja-jobpos1-1009834421207&utm_campaign=jobAlertAlert&tgt=GD_JOB_VIEW&src=GD_JOB_AD&uido=25FEE15AB8193F5FBD60C08C6C6DFD50&ao=1110586&jrtk=5-yul1-0-1j29ic6eigb1g800-cec2c0f3282c4506---6NYlbfkN0DrXR2B1DC3uXXbCSLr0wx9Cb-UnghyteavFjZWSOxDMMgsohA4Bt99RKUpAhBuZJ_ke4CCXpOZGPoAS0LHl9YA3Aupa68TKxAM4EP3iMFbs6xI8d5uA_GApLwQR5UJDLdEoti4WeORAMEfq8IbaCyhWN-MAcmjR3PQ8kdejCwR9lg0qEObqcdlyBbK33o5dO3fAoc5YaE53ujFH3Kza7XmHyzT047bz_p7wbvrBBhF8tKyCEtnk8DyGJTg0bZlPcRbaeiKJCojpspIbJLGwwoj0pO9S95v1TdxokOszGRemka3QNivnp31yy-0uAc_jKHt_ay8Ab62LZosE6ZCgg2NpyidzRL8-6h5RVdU1gxDo1BeY6H78gZ6YDbCh6fMnANQTM8kodpna2RnuHh5DbDa6XjglwZ52xCVNrWSEXr63HYheS9dnGKOXGQblhnWosCq14p8YmEqCu9by4wCwM38mwCTUAx8yBAms8RSOHScXa0Ufw64hImXBxAHJucWv14y74jWTHrdveguTvTqbe0XIKEPyfTMe-8QEVCp3uEWXweMbSBTw67RMOU9J9C-0Bm5sMye0fvyHfzxBuhT5J_XK9mHiS6ijnuGTFPZR69pHImKWkLvfvEpye3WSuGo64FbHh4jlAa5B4Go151YJudUPCwJC0NlcfcU2XsxLx66nLKWNNUiN9w7AszV3_2kRBMseBf1ntfB_boMii4RG2xf8AQT0ULbdm14ybBV3X58r4HY3Qslhbt3oF-SZ_Uh6tM%3D&cs=1_c566a4db&s=224&t=JA&pos=101&cpc=6BBECBC74F3AC36E&ja=368796504&guid=0000019893205140820ee198408f1898&jobListingId=1009834421207&ea=1&vt=e&cb=1754815404672&ctt=1754928772836&srs=EMAIL_JOB_ALERT&gdir=1) `https://www.glassdoor.com/job/javascri...`
+
+---
