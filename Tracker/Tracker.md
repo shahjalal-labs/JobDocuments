@@ -137,3 +137,24 @@
 🔗 [Job Link](https://internshala.com/job/detail/front-end-developer-job-in-delhi-at-beegraphy1754906164)
 
 ---
+
+### 43.02 `🏢 Echotalk — Web Developer - hybrid/remote - 11/08/25 - ₹35,00,000-65,00,000 INR/year ≈ 300,417-557,917 BDT/month`
+
+<pre><code>
+📅 Applied On: 11/08/25
+💰 Stipend/Salary : ₹35,00,000 - ₹65,00,000 / year ≈ 300,417 - 557,917 BDT / month
+⏰ Hours: Bangladesh Time (GMT+6) → Bangalore Time (IST, GMT+5:30)
+🧰 Stack: HTML, CSS, JavaScript, Node.js, React (preferred)
+❌ Lack Stack: None significant for fresher role; suggested improvement: JavaScript testing frameworks
+📆 Interview Date: Not yet scheduled
+🌐 Location: Bangalore, India (Hybrid) UTC+5:30
+🧭 Platform: Not explicitly specified (likely job posting site)
+⏳ Status: 🟡 Pending
+📞  Follow-Up way: Not specified
+
+</code></pre>
+
+🔗 [Company Website](https://echotalk.in) <br />
+🔗 [Job Link](https://internshala.com/job/detail/fresher-web-developer-job-in-bangalore-at-echotalk1754632726)
+
+---
