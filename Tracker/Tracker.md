@@ -114,3 +114,26 @@
 🔗 [Job Link](https://internshala.com/job/detail/fresher-remote-front-end-developer-job-at-valcon-infotech1753939536) `link: https://internshala.com/job/detai...`
 
 ---
+
+## `w: 11/08/2025 07:31 অপরাহ্ণ সোম GMT+6 Sharifpur, Gazipur, Dhaka`
+
+### 42.01 `🏢 BeeGraphy — Front End Developer - onsite - 11/08/25 - ₹9,00,000-12,00,000 INR/year ≈ 77,250-103,000 BDT/month`
+
+<pre><code>
+📅 Applied On: 11/08/25
+💰 Stipend/Salary : ₹9,00,000 - ₹12,00,000 / year ≈ 77,250 - 103,000 BDT / month
+⏰ Hours: Bangladesh Time (GMT+6) → New Delhi Time (IST, GMT+5:30)
+🧰 Stack: React, TypeScript, Figma, Responsive UI, UI/UX design principles
+❌ Lack Stack: TypeScript (learn/improve), BIM/CAD tools, AI-assisted development tools
+📆 Interview Date: Not yet scheduled
+🌐 Location: New Delhi, India (on-site) UTC+5:30
+🧭 Platform: Not specified (likely company career site)
+⏳ Status: 🟡 Pending
+📞  Follow-Up way: Not specified
+
+</code></pre>
+
+🔗 [Company Website](https://beegraphy.com) <br />
+🔗 [Job Link](https://internshala.com/job/detail/front-end-developer-job-in-delhi-at-beegraphy1754906164)
+
+---
