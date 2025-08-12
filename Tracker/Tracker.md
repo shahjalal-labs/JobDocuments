@@ -181,7 +181,7 @@
 
 `w: 12/08/2025 06:42 পূর্বাহ্ণ মঙ্গল GMT+6 Sharifpur, Gazipur, Dhaka`
 
-### 45.01 `🏢 Excel Technologies Ltd. — MERN Stack Developer - onsite - 12/08/25 - ❓ BDT suffix`
+### 45.01 `🏢 Excel Technologies Ltd. — MERN Stack Developer - onsite - 12/08/25 - ❓ BDT `
 
 <pre><code>
 📅 Applied On: 12/08/25 💰 Stipend/Salary : Original ≈ Converted BDT / Monthly
@@ -197,5 +197,24 @@
 
 🔗 [Company Website](https://excelbd.com) `https://excelbd.com` <br />
 🔗 [Job Link](https://www.linkedin.com/jobs/collections/recommended/?currentJobId=42712023https://www.linkedin.com/jobs/collections/recommended/?currentJobId=4271202349
+
+---
+
+### 46.02 `🏢 iFarmer — Software Engineer (React) - onsite - 25/07/25 - 50000–70000 BDT `
+
+<pre><code>
+📅 Applied On: 12/08/25 💰 Stipend/Salary : 50000–70000 BDT ≈ 50000–70000 BDT / Monthly
+⏰ Hours: Bangladesh Time → Bangladesh Time
+🧰 Stack: React, JavaScript, HTML5, CSS3, RESTful APIs, Git, PostgreSQL/MySQL, ORM, OOP, Agile
+❌ Lack Stack: postgresql, mysql, orm, python, ruby, jest
+📆 Interview Date: Not yet scheduled
+🌐 Location: iFarmer HQ, Gulshan-2, Dhaka (GMT+6)
+🧭 Platform: Email (career@ifarmer.asia)
+⏳ Status: 🟡 Pending
+📞  Follow-Up way:  career@ifarmer.asia
+</code></pre>
+
+🔗 [Company Website](https://ifarmer.asia) `https://ifarmer.asia` <br />
+🔗 [Job Link](https://ifarmer.asia/career/software-engineer-react?locale=en) `link: ifarmer.asia/career`
 
 ---
