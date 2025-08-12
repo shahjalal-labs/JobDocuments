@@ -218,3 +218,22 @@
 🔗 [Job Link](https://ifarmer.asia/career/software-engineer-react?locale=en) `link: ifarmer.asia/career`
 
 ---
+
+### 47.03 `🏢 R & H Business Solution — Full Stack Developer (React/Next.js/Node.js) - onsite - 12/08/25 - N/A BDT suffix`
+
+<pre><code>
+📅 Applied On: 12/08/25💰 Stipend/Salary : N/A ≈ N/A BDT / Monthly
+⏰ Hours: Bangladesh Time → Bangladesh Time (GMT+6)
+🧰 Stack: React.js, Next.js, Tailwind CSS, TypeScript, Node.js, REST APIs, Cloud Platforms (AWS/Azure/GCP), Microservice Architecture, Git/GitHub & CI/CD, PostgreSQL
+❌ Lack Stack: TypeScript (full adoption), PostgreSQL (hands-on), AWS/GCP (deployment), Docker, Kubernetes, .NET Core
+📆 Interview Date: Not yet scheduled
+🌐 Location: Dhaka, Bangladesh (GMT+6)
+🧭 Platform: Bdjobs.com Easy Apply
+⏳ Status: 🟡 Pending
+📞  Follow-Up way:  N/A
+</code></pre>
+
+🔗 [Company Website](https://www.rhgroup.com.bd) `url` <br />
+🔗 [Job Link](https://jobs.bdjobs.com/jobdetails.asp?id=1389886) `link: jobs.bdjobs.com/jobdetails.asp...`
+
+---
