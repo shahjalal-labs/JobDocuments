@@ -219,7 +219,7 @@
 
 ---
 
-### 47.03 `🏢 R & H Business Solution — Full Stack Developer (React/Next.js/Node.js) - onsite - 12/08/25 - N/A BDT suffix`
+### 47.03 `🏢 R & H Business Solution — Full Stack Developer (React/Next.js/Node.js) - onsite - 12/08/25 - N/A `
 
 <pre><code>
 📅 Applied On: 12/08/25💰 Stipend/Salary : N/A ≈ N/A BDT / Monthly
@@ -235,5 +235,24 @@
 
 🔗 [Company Website](https://www.rhgroup.com.bd) `url` <br />
 🔗 [Job Link](https://jobs.bdjobs.com/jobdetails.asp?id=1389886) `link: jobs.bdjobs.com/jobdetails.asp...`
+
+---
+
+### 48.04 `🏢 Speechify — Software Engineer, Platform - onsite - 12/08/25 - N/A BDT`
+
+<pre><code>
+📅 Applied On: 12/08/25 2025-08-12💰 Stipend/Salary : N/A ≈ N/A BDT / Monthly
+⏰ Hours: Bangladesh Time → Bangladesh Time (GMT+6)
+🧰 Stack: Node.js, React.js, TypeScript
+❌ Lack Stack: Java, Go, Python (optional), Explicit systems thinking (can be gained)
+📆 Interview Date: Not yet scheduled
+🌐 Location: Dhaka, Bangladesh (GMT+6)
+🧭 Platform: Greenhouse application link
+⏳ Status: 🟡 Pending
+📞  Follow-Up way:  N/A
+</code></pre>
+
+🔗 [Company Website](https://speechify.com) `https://speechify.com` <br />
+🔗 [Job Link](https://job-boards.greenhouse.io/speechify/jobs/5615711004) `link: job-boards.greenhouse.io/speechify/j...`
 
 ---
