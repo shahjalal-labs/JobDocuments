@@ -256,3 +256,22 @@
 🔗 [Job Link](https://job-boards.greenhouse.io/speechify/jobs/5615711004) `link: job-boards.greenhouse.io/speechify/j...`
 
 ---
+
+### 49.05 `🏢 Devxhub Limited — React Developer (Internship) - remote - 15/08/25 - BDT 10,000`
+
+<pre><code>
+📅 Applied On: 15/08/25💰 Stipend/Salary : BDT 10,000 / Monthly
+⏰ Hours: Bangladesh Time (GMT+6) → 8:00 AM – 5:00 PM (GMT+6)
+🧰 Stack: JavaScript, React.js, TDD, Accessibility, Usability, Performance optimization
+❌ Lack Stack: React Testing Library, Jest, Competitive Programming (100+ problems), Advanced TDD frameworks
+📆 Interview Date: Not yet scheduled
+🌐 Location: Remote (Bangladesh citizens only) | GMT+6
+🧭 Platform: Application form / Email
+⏳ Status: 🟡 Pending
+📞  Follow-Up way:  info@devxhub.com
+</code></pre>
+
+🔗 [Company Website](https://devxhub.com) `https://devxhub.com` <br />
+🔗 [Job Link](https://devxhub.com/career/react-developer-internship) `link: https://devxhub.com/career...`
+
+---
