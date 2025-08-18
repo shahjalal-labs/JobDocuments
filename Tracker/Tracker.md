@@ -515,3 +515,23 @@
 🔗 [Job Link](https://internshala.com/job/detail/front-end-development-internship-basti-ki-pathshala-foundation) `https://internshala.com/job/deta...`
 
 ---
+
+### 62.13 `🏢 Aadhvik Technologies — Front End Development Internship - remote - 18/08/25 - BDT 2,000-4,000`
+
+<pre><code>
+📅 Applied On: 18/08/25 2025-08-18
+💰 Stipend/Salary : ₹1,000-2,000 /month ≈ BDT 2,000-4,000 / Monthly
+⏰ Hours: Bangladesh Time → India Standard Time (IST)
+🧰 Stack: HTML, CSS, JavaScript, React
+❌ Lack Stack: AngularJS, Bootstrap (optional)
+📆 Interview Date: Not yet scheduled
+🌐 Location: Remote | Work from Home
+🧭 Platform: Internshala
+⏳ Status: 🟡 Pending
+📞  Follow-Up way: Apply via Internshala
+</code></pre>
+
+🔗 [Company Website](https://aadhvik.in) `https://aadhvik.in` <br />
+🔗 [Job Link](https://internshala.com/job/detail/front-end-development-internship-aadhvik-technologies) `https://internshala.com/job/deta...`
+
+---
