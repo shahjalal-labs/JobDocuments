@@ -297,3 +297,43 @@
 🔗 [Job Link](https://www.linkedin.com/jobs/collections/recommended/?currentJobId=4287067988) `link: https://www.linkedin.com/jobs/view/fron...`
 
 ---
+
+### 50.02 `🏢 NexaCore — Back-end Developer (Node.js) - On-site - 18/08/25 - BDT 40,000–65,000`
+
+<pre><code>
+📅 Applied On: 18/08/25 2025-08-18
+💰 Stipend/Salary : Tk. 40,000–65,000 ≈ BDT 40,000–65,000 / Monthly
+⏰ Hours: Bangladesh Time (GMT+6) → Original Timezone: Same
+🧰 Stack: Node.js, TypeScript, Express.js, PostgreSQL, Prisma, REST APIs, GraphQL, Git/GitHub
+❌ Lack Stack: TypeScript, PostgreSQL, Prisma, GraphQL, Advanced SQL, Testing tools
+📆 Interview Date: Not yet scheduled
+🌐 Location: Dhaka (On-site) / "Anywhere in Bangladesh" mentioned · GMT+6
+🧭 Platform: Bdjobs.com (Easy Apply)
+⏳ Status: 🟡 Pending
+📞  Follow-Up way: Through Bdjobs portal
+</code></pre>
+
+🔗 [Company Website](https://www.nexacore.io) `https://www.nexacore.io` <br />
+🔗 [Job Link](https://www.linkedin.com/jobs/collections/recommended/?currentJobId=4273804532) `link: https://jobs.bdjobs.com/jobdetails.asp?id=13...`
+
+---
+
+### 50.03 `🏢 NGen IT — Full Stack Developer - On-site - 18/08/25 - BDT 12,000–24,000`
+
+<pre><code>
+📅 Applied On: 18/08/25 2025-08-18
+💰 Stipend/Salary : Tk. 12,000–24,000 ≈ BDT 12,000–24,000 / Monthly
+⏰ Hours: Bangladesh Time (GMT+6) → Original Timezone: Same
+🧰 Stack: PHP (Laravel), MySQL, HTML5, CSS3, JavaScript, REST APIs, Git, Authentication (JWT/OAuth)
+❌ Lack Stack: PHP/Laravel, MySQL/PostgreSQL, Docker, CI/CD, ERP (Node.js, Nest.js, Next.js), Testing frameworks
+📆 Interview Date: Not yet scheduled
+🌐 Location: On-site, Dhaka, Bangladesh · GMT+6
+🧭 Platform: LinkedIn Easy Apply / Bdjobs portal
+⏳ Status: 🟡 Pending
+📞  Follow-Up way: Through Bdjobs portal
+</code></pre>
+
+🔗 [Company Website](https://www.ngenitltd.com) `https://www.ngenitltd.com` <br />
+🔗 [Job Link](https://www.linkedin.com/jobs/view/4270392531) `link: https://www.linkedin.com/jobs/view/4270...`
+
+---
