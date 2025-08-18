@@ -397,3 +397,41 @@
 🔗 [Job Link](https://technixtechnology.com/job-detail.php?openingID=%2044) `https://www.linkedin.com/jobs/view/...`
 
 ---
+
+### 56.07 `🏢 Excel Technologies Ltd. — MERN Stack Developer - onsite - 20/08/25 - Negotiable BDT`
+
+<pre><code>
+📅 Applied On: 18/08/25💰 Stipend/Salary : Negotiable ≈ Negotiable BDT / Monthly
+⏰ Hours: Bangladesh Time (GMT+6) → Dhaka Office Time (GMT+6)
+🧰 Stack: React.js, Hooks, Context API, TypeScript, HTML5, CSS3, Tailwind, Bootstrap, Redux/Zustand, Node.js, Express.js, MongoDB, REST APIs, Git
+❌ Lack Stack: TypeScript, Redux, Zustand, Docker, React Native, Framer Motion, GSAP
+📆 Interview Date: Not yet scheduled
+🌐 Location: House# 02, Road # 2, Dhanmondi, Dhaka-1205 · GMT+6
+🧭 Platform: BdJobs Application (Video CV encouraged)
+⏳ Status: 🟡 Pending
+📞  Follow-Up way: complain@bdjobs.com (BdJobs support)
+</code></pre>
+
+🔗 [Company Website](https://www.excel-bd.com) `https://www.excel-bd.com` <br />
+🔗 [Job Link](https://jobs.bdjobs.com/jobdetails.asp?id=1202025) `https://jobs.bdjobs.com/jobdetails...`
+
+---
+
+### 57.08 `🏢 Care-Box Limited — Front-End Developer - onsite - 11/09/25 - Negotiable BDT`
+
+<pre><code>
+📅 Applied On: 18/08/25💰 Stipend/Salary : Negotiable ≈ Negotiable BDT / Monthly
+⏰ Hours: Bangladesh Time (GMT+6) → Dhaka Office Time (GMT+6)
+🧰 Stack: React.js, Next.js, JavaScript, Redux/Flux, HTML5, CSS3, REST APIs, JWT, Git, Webpack, Babel, NPM
+❌ Lack Stack: Next.js, Redux/Flux, Immutable.js, Babel/Webpack config, 3+ yrs professional exp
+📆 Interview Date: Not yet scheduled
+🌐 Location: Road # 27, House # 63, Apartment # Lift-6, Gulshan-1, Dhaka-1212 · GMT+6
+🧭 Platform: BdJobs Application (Video CV encouraged)
+⏳ Status: 🟡 Pending
+📞  Follow-Up way: complain@bdjobs.com
+</code></pre>
+
+🔗 [Company Website](https://www.care-box.com) `https://www.care-box.com` <br />
+🔗 [Job Link](https://jobs.bdjobs.com/jobdetails/?id=1395129&fcatId=-1&ln=1&JobKeyword=react) `https://jobs.bdjobs.com/jobdetails...`
+
+---
