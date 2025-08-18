@@ -397,3 +397,23 @@
 🔗 [Job Link](https://technixtechnology.com/job-detail.php?openingID=%2044) `https://www.linkedin.com/jobs/view/...`
 
 ---
+
+### 56.07 `🏢 Canonical — Web Frontend Engineer (JS, CSS, React, Flutter) - remote - 18/08/25 - BDT not disclosed`
+
+<pre><code>
+📅 Applied On: 18/08/25 2025-08-18
+💰 Stipend/Salary : Not disclosed ≈ Cannot convert / Monthly
+⏰ Hours: Bangladesh Time → Flexible (global remote)
+🧰 Stack: JavaScript/TypeScript, React or Flutter, HTML, CSS, Linux (Debian/Ubuntu), accessibility, performance, UI design, documentation, deployment
+❌ Lack Stack: Flutter, TypeScript, Container tech (Docker, LXD, Kubernetes)
+📆 Interview Date: Not yet scheduled
+🌐 Location: Remote (Global) · GMT+6 compatible
+🧭 Platform: Canonical Careers (apply online, no AI/plagiarism allowed)
+⏳ Status: 🟡 Pending
+📞  Follow-Up way: Via Canonical application portal
+</code></pre>
+
+🔗 [Company Website](https://canonical.com) `https://canonical.com` <br />
+🔗 [Job Link](https://canonical.com/careers/5150422) `https://canonical.com/careers/5150...`
+
+---
