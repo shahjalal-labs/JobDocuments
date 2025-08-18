@@ -298,7 +298,7 @@
 
 ---
 
-### 50.02 `🏢 NexaCore — Back-end Developer (Node.js) - On-site - 18/08/25 - BDT 40,000–65,000`
+### 51.02 `🏢 NexaCore — Back-end Developer (Node.js) - On-site - 18/08/25 - BDT 40,000–65,000`
 
 <pre><code>
 📅 Applied On: 18/08/25 2025-08-18
@@ -318,7 +318,7 @@
 
 ---
 
-### 50.03 `🏢 NGen IT — Full Stack Developer - On-site - 18/08/25 - BDT 12,000–24,000`
+### 52.03 `🏢 NGen IT — Full Stack Developer - On-site - 18/08/25 - BDT 12,000–24,000`
 
 <pre><code>
 📅 Applied On: 18/08/25 2025-08-18
@@ -338,7 +338,7 @@
 
 ---
 
-### 50.04 `🏢 Dune Security — Contract Software Engineering Intern - Remote - 18/08/25 - BDT Not specified`
+### 53.04 `🏢 Dune Security — Contract Software Engineering Intern - Remote - 18/08/25 - BDT Not specified`
 
 <pre><code>
 📅 Applied On: 18/08/25 2025-08-18
@@ -355,5 +355,45 @@
 
 🔗 [Company Website](https://www.dunesec.com) `https://www.dunesec.com` <br />
 🔗 [Job Link](https://www.linkedin.com/jobs/view/4281944304) `link: https://www.linkedin.com/jobs/view/4281...`
+
+---
+
+### 54.05 `🏢 Planet Education Networks — React Developer - Chattogram - BDT 66k-74k - 18/08/25`
+
+<pre><code>
+📅 Applied On: 18/08/25
+💰 Salary: 66,000 – 74,000 BDT/month
+⏰ Working Hours: 9 AM – 5 PM UK Time / 2 PM – 10 PM GMT+6
+🧰 Stack: React.js, JavaScript (ES6+), TypeScript (bonus), Tailwind CSS, HTML5, CSS3, Git
+❌ Lack Stack: Optional testing frameworks (Jest, RTL), backend experience (Node.js/Express)
+📆 Interview Date: Not scheduled
+🌐 Location: On-site, Chattogram, Agrabad
+🧭 Platform: LinkedIn Easy Apply
+⏳ Status: 🟡 Pending
+📞 Follow-Up: LinkedIn / HR contact (Tyler Lorraine Howard)
+</code></pre>
+
+🔗 [Company Website](https://planet-education.com)  
+🔗 [Job Link](https://www.linkedin.com/jobs/view/4270392531)
+
+---
+
+### 55.06 `🏢 TECHNIX TECHNOLOGY — React Developer (Website Development) - onsite - 18/08/25 - BDT not mentioned`
+
+<pre><code>
+📅 Applied On: 18/08/25 2025-08-18
+💰 Stipend/Salary : Not disclosed ≈ Cannot convert / Monthly
+⏰ Hours: Bangladesh Time → Local (GMT+6)
+🧰 Stack: React.js, JavaScript (ES6+), HTML5, CSS3, RESTful APIs, Redux/Zustand/Context API, Webpack, Babel, Vite, UI/UX, Figma
+❌ Lack Stack: Redux, Zustand, Vite, Webpack (not in your listed stack)
+📆 Interview Date: Not yet scheduled
+🌐 Location: Bangladesh (On-site, Patna office) · GMT+6
+🧭 Platform: LinkedIn job post (apply button)
+⏳ Status: 🟡 Pending
+📞  Follow-Up way: Not listed (LinkedIn only)
+</code></pre>
+
+🔗 [Company Website](https://www.technixtech.com) `https://www.technixtech.com` <br />
+🔗 [Job Link](https://technixtechnology.com/job-detail.php?openingID=%2044) `https://www.linkedin.com/jobs/view/...`
 
 ---
