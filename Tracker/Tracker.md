@@ -495,3 +495,23 @@
 🔗 [Job Link](https://internshala.com/job/detail/front-end-development-internship-uzence-design-studio) `https://internshala.com/job/deta...`
 
 ---
+
+### 61.12 `🏢 Basti Ki Pathshala Foundation — Front End Development Internship - remote - 18/08/25 - BDT 4,000 (internship) / 90,000-130,000 (post-internship)`
+
+<pre><code>
+📅 Applied On: 18/08/25 2025-08-18
+💰 Stipend/Salary : Unpaid internship ≈ BDT 4,000 / Monthly (learning) | Post-internship ₹540,000-780,000 ≈ BDT 90,000-130,000 / Monthly
+⏰ Hours: Bangladesh Time → India Standard Time (IST)
+🧰 Stack: HTML, JavaScript, CSS
+❌ Lack Stack: TypeScript, ReactJS, Angular, Software Testing (optional)
+📆 Interview Date: Not yet scheduled
+🌐 Location: Remote (India) | Work from Home
+🧭 Platform: Internshala
+⏳ Status: 🟡 Pending
+📞  Follow-Up way: Apply via Internshala
+</code></pre>
+
+🔗 [Company Website](https://bastikipathshala.org) `https://bastikipathshala.org` <br />
+🔗 [Job Link](https://internshala.com/job/detail/front-end-development-internship-basti-ki-pathshala-foundation) `https://internshala.com/job/deta...`
+
+---
