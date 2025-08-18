@@ -535,3 +535,83 @@
 🔗 [Job Link](https://internshala.com/job/detail/front-end-development-internship-aadhvik-technologies) `https://internshala.com/job/deta...`
 
 ---
+
+### 63.14 `🏢 Grinning Co. — Front End Development Internship - remote - 18/08/25 - BDT 40,000–50,000`
+
+<pre><code>
+📅 Applied On: 18/08/25 2025-08-18
+💰 Stipend/Salary : ₹20,000–25,000 /month ≈ BDT 40,000–50,000 / Monthly
+⏰ Hours: Bangladesh Time → IST 12:00–18:00
+🧰 Stack: HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, React, Next.js, Redux, REST API, WebSockets, Figma
+❌ Lack Stack: Minor gap in WebSockets (real-time features) & Redux demonstration
+📆 Interview Date: Not yet scheduled
+🌐 Location: Remote | Work from Home
+🧭 Platform: Internshala
+⏳ Status: 🟡 Pending
+📞  Follow-Up way: Apply via Internshala
+</code></pre>
+
+🔗 [Company Website](https://grinning.co) `https://grinning.co` <br />
+🔗 [Job Link](https://internshala.com/internship/detail/work-from-home-front-end-development-internship-at-finflock-systems-private-limited1754377944) `https://internshala.com/job/deta...`
+
+---
+
+### 64.15 `🏢 Finflock Systems Private Limited — Front End Development Internship - remote - 18/08/25 - BDT 20,000–28,000`
+
+<pre><code>
+📅 Applied On: 18/08/25 2025-08-18
+💰 Stipend/Salary : ₹10,000–14,000 /month ≈ BDT 20,000–28,000 / Monthly
+⏰ Hours: Bangladesh Time → IST 11:30–17:30 (approx.)
+🧰 Stack: HTML, CSS, JavaScript, React, Vue.js(optional), Figma, UI/UX Design
+❌ Lack Stack: Vue.js experience optional, incentive deliverables to clarify
+📆 Interview Date: Not yet scheduled
+🌐 Location: Remote | Work from Home
+🧭 Platform: Internshala
+⏳ Status: 🟡 Pending
+📞  Follow-Up way: Apply via Internshala
+</code></pre>
+
+🔗 [Company Website](https://finflock.com) `https://finflock.com` <br />
+🔗 [Job Link](https://internshala.com/job/detail/front-end-development-internship-finflock-systems) `https://internshala.com/job/deta...`
+
+---
+
+### 64.15 `🏢 Finflock Systems Private Limited — Front End Development Internship - remote - 18/08/25 - BDT 20,000–28,000`
+
+<pre><code>
+📅 Applied On: 18/08/25 2025-08-18
+💰 Stipend/Salary : ₹10,000–14,000 /month ≈ BDT 20,000–28,000 / Monthly
+⏰ Hours: Bangladesh Time → IST 11:30–17:30 (approx.)
+🧰 Stack: HTML, CSS, JavaScript, React, Vue.js(optional), Figma, UI/UX Design
+❌ Lack Stack: Vue.js experience optional, incentive deliverables to clarify
+📆 Interview Date: Not yet scheduled
+🌐 Location: Remote | Work from Home
+🧭 Platform: Internshala
+⏳ Status: 🟡 Pending
+📞  Follow-Up way: Apply via Internshala
+</code></pre>
+
+🔗 [Company Website](https://finflock.com) `https://finflock.com` <br />
+🔗 [Job Link](https://internshala.com/job/detail/front-end-development-internship-finflock-systems) `https://internshala.com/job/deta...`
+
+---
+
+### 65.16 `🏢 Acencore Technologies — Front End Development Internship - remote - 18/08/25 - BDT 4,000–10,000`
+
+<pre><code>
+📅 Applied On: 18/08/25 2025-08-18
+💰 Stipend/Salary : ₹2,000–5,000 /month ≈ BDT 4,000–10,000 / Monthly
+⏰ Hours: Bangladesh Time → IST 11:30–17:30 (approx.)
+🧰 Stack: HTML, CSS, JavaScript, React, REST API, Git/GitHub
+❌ Lack Stack: TypeScript, Vue.js/Angular, CSS preprocessors, UI testing exposure
+📆 Interview Date: Not yet scheduled
+🌐 Location: Remote | Work from Home
+🧭 Platform: Internshala
+⏳ Status: 🟡 Pending
+📞  Follow-Up way: Apply via Internshala
+</code></pre>
+
+🔗 [Company Website](https://acencore.com) `https://acencore.com` <br />
+🔗 [Job Link](https://internshala.com/job/detail/front-end-development-internship-acencore-technologies) `https://internshala.com/job/deta...`
+
+---
