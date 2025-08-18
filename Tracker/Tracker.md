@@ -435,3 +435,63 @@
 🔗 [Job Link](https://jobs.bdjobs.com/jobdetails/?id=1395129&fcatId=-1&ln=1&JobKeyword=react) `https://jobs.bdjobs.com/jobdetails...`
 
 ---
+
+### 58.09 `🏢 OST Placement Search Private Limited — Front End Development Internship - remote - 18/08/25 - BDT 30,000`
+
+<pre><code>
+📅 Applied On: 18/08/25 2025-08-18
+💰 Stipend/Salary : ₹15,000 ≈ BDT 30,000 / Monthly
+⏰ Hours: Bangladesh Time → India Standard Time (IST)
+🧰 Stack: HTML, CSS, JavaScript, React, Node.js
+❌ Lack Stack: Angular, JS Software Testing (can learn)
+📆 Interview Date: Not yet scheduled
+🌐 Location: Remote (India) | Work from Home
+🧭 Platform: Internshala
+⏳ Status: 🟡 Pending
+📞  Follow-Up way: Apply via Internshala
+</code></pre>
+
+🔗 [Company Website](https://www.linkedin.com/company/ost-placement-search) `https://www.linkedin.com/company/ost-placement-search` <br />
+🔗 [Job Link](https://internshala.com/job/detail/front-end-development-internship-ost-placement-search) `https://internshala.com/job/deta...`
+
+---
+
+### 59.10 `🏢 Brave Artificial Intelligence Laboratory — Front End Development Internship - remote - 18/08/25 - BDT 20,000–40,000`
+
+<pre><code>
+📅 Applied On: 18/08/25 2025-08-18
+💰 Stipend/Salary : ₹10,000–20,000 ≈ BDT 20,000–40,000 / Monthly
+⏰ Hours: Bangladesh Time → India Standard Time (IST)
+🧰 Stack: HTML, CSS, JavaScript, React, Next.js, Node.js, REST API, AngularJS
+❌ Lack Stack: Angular (optional), JS Software Testing, Advanced Next.js features
+📆 Interview Date: Not yet scheduled
+🌐 Location: Remote (India) | Work from Home
+🧭 Platform: Internshala
+⏳ Status: 🟡 Pending
+📞  Follow-Up way: Apply via Internshala
+</code></pre>
+
+🔗 [Company Website](https://www.braveai.in) `https://www.braveai.in` <br />
+🔗 [Job Link](https://internshala.com/job/detail/front-end-development-internship-brave-ai-lab) `https://internshala.com/job/deta...`
+
+---
+
+### 60.11 `🏢 Uzence Design Studio — Front End Development Internship - remote - 18/08/25 - BDT 4,000`
+
+<pre><code>
+📅 Applied On: 18/08/25 2025-08-18
+💰 Stipend/Salary : ₹2,000 ≈ BDT 4,000 / Monthly
+⏰ Hours: Bangladesh Time → India Standard Time (IST)
+🧰 Stack: HTML, CSS, JavaScript, React, Next.js, TypeScript, Tailwind CSS, Storybook
+❌ Lack Stack: TypeScript (minor), Angular, JS Software Testing
+📆 Interview Date: Not yet scheduled
+🌐 Location: Remote (India) | Work from Home
+🧭 Platform: Internshala
+⏳ Status: 🟡 Pending
+📞  Follow-Up way: Apply via Internshala
+</code></pre>
+
+🔗 [Company Website](https://uzence.com) `https://uzence.com` <br />
+🔗 [Job Link](https://internshala.com/job/detail/front-end-development-internship-uzence-design-studio) `https://internshala.com/job/deta...`
+
+---
