@@ -275,3 +275,25 @@
 🔗 [Job Link](https://devxhub.com/career/react-developer-internship) `link: https://devxhub.com/career...`
 
 ---
+
+`18/08/2025 08:58 পূর্বাহ্ণ সোম GMT+6 Sharifpur, Gazipur, Dhaka`
+
+### 50.01 `🏢 The Red IT — Frontend Developer - Remote - 18/08/25 - BDT 50,000`
+
+<pre><code>
+📅 Applied On: 18/08/25 2025-08-18
+💰 Stipend/Salary : BDT 50,000 ≈ BDT 50,000 / Monthly
+⏰ Hours: Bangladesh Time (GMT+6) → Original Timezone: Same
+🧰 Stack: JavaScript (ES6+), React.js/Vue.js/Angular, GraphQL, HTML5, CSS3, Tailwind/SASS, REST APIs, Git
+❌ Lack Stack: GraphQL clients (Apollo/Relay), Redux, TypeScript, Testing (Jest, Cypress, RTL), Docker, Kubernetes, AWS/Azure/GCP
+📆 Interview Date: Not yet scheduled
+🌐 Location: Remote (Bangladesh only) · GMT+6
+🧭 Platform: Easy Apply / The Red IT Career Portal
+⏳ Status: 🟡 Pending
+📞  Follow-Up way: Not provided (likely via Easy Apply)
+</code></pre>
+
+🔗 [Company Website](https://theredit.com) `https://theredit.com` <br />
+🔗 [Job Link](https://www.linkedin.com/jobs/collections/recommended/?currentJobId=4287067988) `link: https://www.linkedin.com/jobs/view/fron...`
+
+---
