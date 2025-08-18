@@ -337,3 +337,23 @@
 🔗 [Job Link](https://www.linkedin.com/jobs/view/4270392531) `link: https://www.linkedin.com/jobs/view/4270...`
 
 ---
+
+### 50.04 `🏢 Dune Security — Contract Software Engineering Intern - Remote - 18/08/25 - BDT Not specified`
+
+<pre><code>
+📅 Applied On: 18/08/25 2025-08-18
+💰 Stipend/Salary : Not specified ≈ Unknown / Monthly
+⏰ Hours: Bangladesh Time (GMT+6) → Original Timezone: NYC (GMT-4/-5) = +11 hrs
+🧰 Stack: HTML5, CSS3, JavaScript, SCORM (1.2/2004), eLearning tools (Articulate, Captivate, iSpring), Accessibility
+❌ Lack Stack: SCORM expertise, LMS integration, Articulate/Captivate/iSpring, Accessibility compliance, Graphic/media editing
+📆 Interview Date: Not yet scheduled
+🌐 Location: Remote available (NYC preferred) · GMT+6 overlap possible
+🧭 Platform: LinkedIn Apply
+⏳ Status: 🟡 Pending
+📞  Follow-Up way: Apply via LinkedIn job listing
+</code></pre>
+
+🔗 [Company Website](https://www.dunesec.com) `https://www.dunesec.com` <br />
+🔗 [Job Link](https://www.linkedin.com/jobs/view/4281944304) `link: https://www.linkedin.com/jobs/view/4281...`
+
+---
