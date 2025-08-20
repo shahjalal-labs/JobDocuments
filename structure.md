@@ -66,3 +66,11 @@
 14 directories, 47 files
 
 ```
+
+Assalamu alaikum, ami apnr sathe ejp te achi.
+mahedi vaiyar mentorship e. vai job er kmn situation dekhchen. ami to kichui khuje pacchina.
+
+Assalamu alaikum vaiya, ami ph batch 11 sesh kore ekhon
+SCIC te achi. actively job khujchi kintu kothao kno reponse pacchi na. apnar sathe kotha bole kichu jene nitam, jdi apnr somoy hoy.
+
+amar github: https://github.com/shahjalal-labs
