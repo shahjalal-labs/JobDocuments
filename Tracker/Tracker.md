@@ -18,3 +18,41 @@
 🔗 [Job Link](https://www.joinrs.com/en/job-offers/297746/?utm_source=linkedin&utm_medium=job-offer-us&utm_campaign=297746-internal) `link: https://joinrs.com/job/junior-w...`
 
 ---
+
+### 67.02 `🏢 Brick Line Technology Limited — Software Engineer Intern - onsite - 20/08/25 - BDT 12,000–15,000`
+
+<pre><code>
+📅 Applied On: 20/08/25 💰 Stipend/Salary : 12,000–15,000 BDT ≈ 12,000–15,000 BDT / Monthly
+⏰ Hours: Bangladesh Time (GMT+6) → Same (On-site)
+🧰 Stack: Python, React.js/Vue.js, Linux CLI, Git
+❌ Lack Stack: Python (gap), SQL basics, AWS/GCP (optional)
+📆 Interview Date: Not yet scheduled
+🌐 Location: Dhaka, Bangladesh (GMT+6)
+🧭 Platform: LinkedIn Easy Apply
+⏳ Status: 🟡 Pending
+📞  Follow-Up way: Apply via LinkedIn (no email given)
+</code></pre>
+
+🔗 [Company Website](https://bricklinetechnology.com) `https://bricklinetechnology.com` <br />
+🔗 [Job Link](https://www.linkedin.com/jobs/view/4287085148) `link: https://www.linkedin.com/jobs/vie...`
+
+---
+
+### 68.03 `🏢 Care-Box Limited — Front-End Developer - onsite - 20/08/25 - BDT 60,000–120,000 (est.)`
+
+<pre><code>
+📅 Applied On: 20/08/25 💰 Stipend/Salary : Not listed ≈ BDT 60,000–120,000 / Monthly (market estimate)
+⏰ Hours: Bangladesh Time (GMT+6) → Same
+🧰 Stack: JavaScript/TypeScript, React.js, Next.js, HTML5, CSS3, REST APIs, JWT, Redux/Flux, Git
+❌ Lack Stack: TypeScript (optional), Next.js specific experience, Immutable.js, Photoshop/XD (UI conversion)
+📆 Interview Date: Not yet scheduled
+🌐 Location: Dhaka, Bangladesh (GMT+6)
+🧭 Platform: Bdjobs.com Easy Apply
+⏳ Status: 🟡 Pending
+📞  Follow-Up way: Apply via Bdjobs.com platform
+</code></pre>
+
+🔗 [Company Website](https://www.care-box.com) `https://www.care-box.com` <br />
+🔗 [Job Link](https://www.linkedin.com/jobs/view/4284772288) `link: https://www.linkedin.com/jobs/vie...`
+
+---
