@@ -56,3 +56,23 @@
 🔗 [Job Link](https://www.linkedin.com/jobs/view/4284772288) `link: https://www.linkedin.com/jobs/vie...`
 
 ---
+
+### 69.04 `🏢 EchoLogyx Ltd — Frontend Software Engineer - onsite - 20/08/25 - BDT Negotiable`
+
+<pre><code>
+📅 Applied On: 20/08/25
+💰 Stipend/Salary: Negotiable ≈ BDT Negotiable / Monthly
+⏰ Hours: 1:30 PM - 10:00 PM (GMT+6) → Same Timezone
+🧰 Stack: JavaScript, React.js, HTML5, CSS3, JWT, Git, Redux/Flux, Webpack, NPM
+❌ Lack Stack: Redux/Flux (minor), Webpack config, Immutable.js
+📆 Interview Date: Not yet scheduled
+🌐 Location: Uttara/Dhanmondi, Dhaka + Chattogram, Bangladesh (GMT+6)
+🧭 Platform: LinkedIn + Email Application
+⏳ Status: 🟡 Pending
+📞 Follow-Up: jobs@echologyx.com
+</code></pre>
+
+🔗 [Company Website](https://echologyx.com) `echologyx.com` <br />
+🔗 [Job Link](https://www.linkedin.com/jobs/view/4223698381) `linkedin.com/jobs/view/4223698381...`
+
+---
