@@ -96,23 +96,3 @@
 🔗 [Job Link](https://www.linkedin.com/jobs/view/4288084419) `linkedin.com/jobs/view/4288084419...`
 
 ---
-
-### 71.06 `🏢 Charlie Health — Web Developer, Entry Level - remote - 20/08/25 - BDT 120,000 (approx)`
-
-<pre><code>
-📅 Applied On: 20/08/25
-💰 Stipend/Salary : $70,000 - $90,000/year ≈ BDT 120,000/month (est.)
-⏰ Hours: GMT+6 (Dhaka) → GMT-7 to GMT-5 (US-based, partial overlap)
-🧰 Stack: HTML, CSS, JavaScript, PHP, WordPress, ACF, GA4, VWO, WP Engine, LLM tools
-❌ Lack Stack: PHP, WP Engine, VWO, ACF, GA4, multisite WordPress, Osano, Freshpaint, Lighthouse, caching tools
-📆 Interview Date: Not yet scheduled
-🌐 Location: Remote (US-based, Bozeman, MT, USA) → GMT-7
-🧭 Platform: Jobright.ai (referral-friendly)
-⏳ Status: 🟡 Pending
-📞  Follow-Up way: career@remoteoffice.io
-</code></pre>
-
-🔗 [Company Website](https://www.charliehealth.com) `https://www.charliehealth.com` <br />
-🔗 [Job Link](https://jobright.ai/jobs/web-devel) `link: https://jobright.ai/jobs/web-devel`
-
----
