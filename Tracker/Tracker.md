@@ -76,3 +76,23 @@
 🔗 [Job Link](https://www.linkedin.com/jobs/view/4223698381) `linkedin.com/jobs/view/4223698381...`
 
 ---
+
+### 70.05 `🏢 Webolytica — Junior Web Developer - remote - 20/08/25 - BDT Competitive`
+
+<pre><code>
+📅 Applied On: 20/08/25
+💰 Stipend/Salary: Competitive ≈ BDT Unknown / Monthly
+⏰ Hours: Flexible (Remote) → US Timezone (flexible)
+🧰 Stack: PHP, Laravel, Yii, JavaScript, HTML, CSS, AWS, Craft CMS
+❌ Lack Stack: PHP, Laravel, Yii, Craft CMS, AWS (major gaps)
+📆 Interview Date: Not yet scheduled
+🌐 Location: United States, Remote (GMT-5 to GMT-8)
+🧭 Platform: LinkedIn Application
+⏳ Status: 🔴 Not Recommended
+📞 Follow-Up: LinkedIn messaging
+</code></pre>
+
+🔗 [Company Website](https://www.webolytica.com) `webolytica.com` <br />
+🔗 [Job Link](https://www.linkedin.com/jobs/view/4288084419) `linkedin.com/jobs/view/4288084419...`
+
+---
