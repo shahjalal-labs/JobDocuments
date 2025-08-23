@@ -40,6 +40,8 @@
 
 ### 68.03 `🏢 Care-Box Limited — Front-End Developer - onsite - 20/08/25 - BDT 60,000–120,000 (est.)`
 
+s
+
 <pre><code>
 📅 Applied On: 20/08/25 💰 Stipend/Salary : Not listed ≈ BDT 60,000–120,000 / Monthly (market estimate)
 ⏰ Hours: Bangladesh Time (GMT+6) → Same
