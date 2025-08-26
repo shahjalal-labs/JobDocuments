@@ -98,3 +98,25 @@ s
 🔗 [Job Link](https://www.linkedin.com/jobs/view/4288084419) `linkedin.com/jobs/view/4288084419...`
 
 ---
+
+`26/08/2025 05:37 অপরাহ্ণ মঙ্গল GMT+6 Sharifpur, Gazipur, Dhaka`
+
+### 71.01 `🏢 Click Straight — Junior Web Developer - Remote - 26/08/25 - BDT 76,600–383,300`
+
+<pre><code>
+📅 Applied On: 26/08/25
+💰 Stipend/Salary : $10,001 – $50,000 ≈ BDT 76,600 – 383,300 / Monthly
+⏰ Hours: Bangladesh Time (GMT+6) → India Standard Time (GMT+5:30)
+🧰 Stack: HTML, CSS, JavaScript, Git, VS Code
+❌ Lack Stack: PHP, Angular, Vue.js, Java, C++, Python, Hindi
+📆 Interview Date: Not yet scheduled
+🌐 Location: Remote (India-based) | IST (GMT+5:30)
+🧭 Platform: Bizoforce job portal
+⏳ Status: 🟡 Pending
+📞  Follow-Up way: Apply via Bizoforce platform
+</code></pre>
+
+🔗 [Company Website](https://www.clickstraight.com) `https://www.clickstraight.com` <br />
+🔗 [Job Link](https://giglancer.bizoforce.com/jobs/view/1564/junior-web-developer) `https://www.bizoforce.com/job/junior-web-dev...`
+
+---
