@@ -120,3 +120,23 @@ s
 🔗 [Job Link](https://giglancer.bizoforce.com/jobs/view/1564/junior-web-developer) `https://www.bizoforce.com/job/junior-web-dev...`
 
 ---
+
+### 72.01 `🏢 ATI Limited — Junior Frontend Developer - onsite - 30/08/25 - BDT salary`
+
+<pre><code>
+📅 Applied On: 30/08/25 2025-08-30
+💰 Stipend/Salary : Competitive ≈ BDT (Not disclosed) / Monthly
+⏰ Hours: Bangladesh Time → Bangladesh Time (GMT+6)
+🧰 Stack: JavaScript, TypeScript, React, Redux Toolkit, Node.js, Express.js, MongoDB, Next.js, Tailwind CSS, HTML5, CSS3, Git
+❌ Lack Stack: TypeScript, Next.js (SSR/SSG), possibly Docker/CI/CD
+📆 Interview Date: Not yet scheduled
+🌐 Location: Dhaka, Bangladesh (GMT+6)
+🧭 Platform: Email (career@atilimited.net)
+⏳ Status: 🟡 Pending
+📞  Follow-Up way: career@atilimited.net
+</code></pre>
+
+🔗 [Company Website](http://www.atilimited.net) `url` <br />
+🔗 [Job Link](https://atilimited.net/career) `link: https://atilimited.net/career...`
+
+---
