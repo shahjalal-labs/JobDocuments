@@ -162,3 +162,22 @@ s
 🔗 [Job Link](https://www.linkedin.com/jobs/view/frontend-developer-at-fabric-labs-4287498248) `https://pangian.com/job/fab...`
 
 ---
+
+### 74.03 `🏢 AIWEB3 Blockchain Group — Fullstack Backend Frontend Developer - remote - 31/12/25 - BDT N/A`
+
+<pre><code>
+📅 Applied On: foramt: 31/12/25 2025-08-31💰 Stipend/Salary : Competitive (BDT N/A)
+⏰ Hours: Bangladesh Time → Nigeria Time (GMT+1)
+🧰 Stack: React.js, Node.js, PHP, TypeScript, REST API, MySQL/PostgreSQL, Git
+❌ Lack Stack: Blockchain experience, DeFi, PWA, AWS/GCP
+📆 Interview Date: Not yet scheduled
+🌐 Location: Remote (Global) + Timezone offset +5 from Bangladesh
+🧭 Platform: Pangian application portal (or email)
+⏳ Status: 🟡 Pending
+📞  Follow-Up way: career@remoteoffice.io
+</code></pre>
+
+🔗 [Company Website](https://aiweb3.com) `https://aiweb3.com` <br />
+🔗 [Job Link](https://ng.linkedin.com/jobs/view/fullstack-backend-frontend-developer-php-laravel-react-js-pwa-at-aiweb3-blockchain-group-4291458096) `https://pangian.com/job/fullstack-backend-...`
+
+---
