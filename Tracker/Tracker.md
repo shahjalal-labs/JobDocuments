@@ -121,6 +121,8 @@ s
 
 ---
 
+`30/08/2025 02:33 অপরাহ্ণ শনি GMT+6 Sharifpur, Gazipur, Dhaka`
+
 ### 72.01 `🏢 ATI Limited — Junior Frontend Developer - onsite - 30/08/25 - BDT salary`
 
 <pre><code>
@@ -137,6 +139,6 @@ s
 </code></pre>
 
 🔗 [Company Website](http://www.atilimited.net) `url` <br />
-🔗 [Job Link](https://atilimited.net/career) `link: https://atilimited.net/career...`
+🔗 [Job Link]() `link: https://atilimited.net/career...`
 
 ---
