@@ -181,3 +181,22 @@ s
 🔗 [Job Link](https://ng.linkedin.com/jobs/view/fullstack-backend-frontend-developer-php-laravel-react-js-pwa-at-aiweb3-blockchain-group-4291458096) `https://pangian.com/job/fullstack-backend-...`
 
 ---
+
+### 75.04 `🏢 Wadi Taslim Technologies — MERN Stack Developer (Backend) - onsite - 31/12/25 - BDT 20,000–40,000`
+
+<pre><code>
+📅 Applied On: 31/08/25 2025-08-31💰 Stipend/Salary : BDT 20,000 – 40,000 ≈ BDT 20,000 – 40,000 / Monthly
+⏰ Hours: Bangladesh Time (Local) → Original Timezone Khulna (GMT+6)
+🧰 Stack: Node.js, Express.js, MongoDB, REST APIs, Database Design/Optimization
+❌ Lack Stack: mysql, postgres, redis, docker, aws, gcp, azure, firebase, netlify, surge, figma
+📆 Interview Date: Not yet scheduled
+🌐 Location: Zero Point, Khulna (Onsite, GMT+6)
+🧭 Platform: Email application
+⏳ Status: 🟡 Pending
+📞  Follow-Up way:  info@waditaslimtech.com
+</code></pre>
+
+🔗 [Company Website](https://waditaslimtech.com) `https://waditaslimtech.com` <br />
+🔗 [Job Link](https://www.linkedin.com/posts/mern-backend-khulna) `https://www.linkedin.com/posts/mern-bac...`
+
+---
