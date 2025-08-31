@@ -142,3 +142,23 @@ s
 🔗 [Job Link]() `link: https://atilimited.net/career...`
 
 ---
+
+### 73.02 `🏢 Fabric Labs — Frontend Developer - remote - 31/08/25 - BDT 3,210,000–4,610,000`
+
+<pre><code>
+📅 Applied On: 31/08/25 2025-08-31
+💰 Stipend/Salary : $365,000–$525,000/yr ≈ BDT 3,210,000–4,610,000 / Monthly
+⏰ Hours: Bangladesh Time (GMT+6) → US EST (UTC-5)
+🧰 Stack: JavaScript, TypeScript, Svelte 5, Web Performance
+❌ Lack Stack: Svelte 5, Websockets-heavy trading UI, Blockchain/DeFi
+📆 Interview Date: Not yet scheduled
+🌐 Location: Remote (US-only, no visa sponsorship) | USA, UTC-5
+🧭 Platform: Pangian job board
+⏳ Status: 🟡 Pending
+📞  Follow-Up way: Pangian platform (no direct email)
+</code></pre>
+
+🔗 [Company Website](https://fabriclabs.com) `https://fabriclabs.com` <br />
+🔗 [Job Link](https://www.linkedin.com/jobs/view/frontend-developer-at-fabric-labs-4287498248) `https://pangian.com/job/fab...`
+
+---
