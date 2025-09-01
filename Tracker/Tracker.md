@@ -260,3 +260,23 @@ s
 🔗 [Job Link](link) `link: first 30 chars...`
 
 ---
+
+### 79.08 `🏢 MaptoWay Inc Corp — Backend Developer (Intern) - remote - 10/09/25 - BDT 5,000–8,000`
+
+<pre><code>
+📅 Applied On: 01/09/25 2025-09-01
+💰 Stipend/Salary : Tk. 5,000–8,000 ≈ Tk. 5,000–8,000 BDT / Monthly
+⏰ Hours: Bangladesh Time → GMT+6
+🧰 Stack: Python, FastAPI/Flask/Django REST, PostgreSQL, REST API, Git
+❌ Lack Stack: Docker, CI/CD, AWS, GCP, Azure, Redis, MySQL, MongoDB
+📆 Interview Date: Not yet scheduled
+🌐 Location: Remote, Anywhere in Bangladesh (GMT+6)
+🧭 Platform: Bdjobs.com portal (Video CV encouraged)
+⏳ Status: 🟡 Pending
+📞  Follow-Up way: complain@bdjobs.com (fraud issues only)
+</code></pre>
+
+🔗 [Company Website](https://maptoway.com) `https://maptoway.com` <br />
+🔗 [Job Link](https://www.bdjobs.com/jobdetails.asp?id=) `link: first 30 chars...`
+
+---
