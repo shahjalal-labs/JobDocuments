@@ -200,3 +200,23 @@ s
 🔗 [Job Link](https://www.linkedin.com/posts/mern-backend-khulna) `https://www.linkedin.com/posts/mern-bac...`
 
 ---
+
+### 76.05 `🏢 Chardike Limited — Frontend Developer (React/Vue) - onsite - 30/08/25 - BDT Negotiable`
+
+<pre><code>
+📅 Applied On: 01/09/25 2025-09-01
+💰 Stipend/Salary : Negotiable ≈ (est. 30k–70k BDT) / Monthly
+⏰ Hours: Bangladesh Time (GMT+6) → Same local timezone
+🧰 Stack: React.js (Next.js) / Vue.js, JavaScript (ES6+), HTML5, CSS3, Redux Toolkit, SEO, REST APIs
+❌ Lack Stack: Redux Toolkit (you didn’t list), Vue.js (optional), SEO tools, A/B testing
+📆 Interview Date: Not yet scheduled
+🌐 Location: Hatirpool, Dhaka — GMT+6
+🧭 Platform: Email application
+⏳ Status: 🟡 Pending
+📞  Follow-Up way: career@chardike.com
+</code></pre>
+
+🔗 [Company Website](https://chardike.com) `https://chardike.com` <br />
+🔗 [Job Link](https://www.facebook.com/job_opening/Chardike-Frontend-Developer) `link: https://www.facebook.com/job_...`
+
+---
