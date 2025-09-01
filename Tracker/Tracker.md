@@ -300,3 +300,23 @@ s
 🔗 [Job Link](https://www.facebook.com/job_opening/React-Frontend-Developer-Gulshan) `link: first 30 chars...`
 
 ---
+
+### 80.10 `🏢 Vector360 — Frontend Developer - onsite - 01/09/25 - BDT salary not disclosed`
+
+<pre><code>
+📅 Applied On: 01/09/25 2025-09-01
+💰 Stipend/Salary : Not disclosed ≈ N/A BDT / Monthly
+⏰ Hours: Bangladesh Time → Dhaka GMT+6 (local)
+🧰 Stack: JavaScript, TypeScript, React.js, Next.js, Redux/TanStack Query, Tailwind CSS, REST APIs, Webpack/Vite/Turbopack, Git
+❌ Lack Stack: typescript, redux, jest, cypress, vite, turbopack
+📆 Interview Date: Not yet scheduled
+🌐 Location: Dhaka, Bangladesh (GMT+6)
+🧭 Platform: Email application
+⏳ Status: 🟡 Pending
+📞  Follow-Up way: support@vector360bd.com
+</code></pre>
+
+🔗 [Company Website](https://vector360bd.com) `https://vector360bd.com` <br />
+🔗 [Job Link](https://www.facebook.com/photo/?fbid=4181842785417407&set=gm.2283409965439396&idorvanity=1398646047249130) `link: https://www.linkedin.com/jobs/view/...`
+
+---
