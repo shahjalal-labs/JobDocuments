@@ -240,3 +240,23 @@ s
 🔗 [Job Link](https://forms.gle/DpbScJ6Va7DmXHYs6) `link: https://forms.gle/DpbScJ6Va7...`
 
 ---
+
+### 78.07 `🏢 Digital Internet Marketing (DiM) — Web Developer - onsite - 31/12/25 - BDT (Based on experience)`
+
+<pre><code>
+📅 Applied On: 31/12/25 2025-09-01
+💰 Stipend/Salary : Based on experience ≈ Market range: BDT 40,000–80,000 / Monthly
+⏰ Hours: Bangladesh Time (GMT+6) → Not specified
+🧰 Stack: Full-stack Web Development, Frontend + Backend, Cross-browser/Platform Issues, API Integration
+❌ Lack Stack: Digital Marketing, WordPress, SEO, advanced CMS tools
+📆 Interview Date: Not yet scheduled
+🌐 Location: Likely Dhaka, Bangladesh (GMT+6)
+🧭 Platform: Email application
+⏳ Status: 🟡 Pending
+📞  Follow-Up way: smsadequrrahaman@gmail.com
+</code></pre>
+
+🔗 [Company Website](url) `url` <br />
+🔗 [Job Link](link) `link: first 30 chars...`
+
+---
