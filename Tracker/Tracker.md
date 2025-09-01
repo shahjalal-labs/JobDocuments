@@ -340,3 +340,23 @@ s
 🔗 [Job Link](https://forms.gle/p3Emw2p6D3zYiBrZ7) `link: first 30 chars...`
 
 ---
+
+### 82.12 `🏢 ThinkCrypt.dev — React.js (Next.js) Intern - onsite - 01/09/25 - BDT salary not mentioned`
+
+<pre><code>
+📅 Applied On: 01/09/25 2025-09-01
+💰 Stipend/Salary : Not mentioned ≈ Cannot convert BDT / Monthly
+⏰ Hours: Bangladesh Time (GMT+6) → Local Office Hours
+🧰 Stack: React.js, Next.js, Redux Toolkit
+❌ Lack Stack: redux toolkit
+📆 Interview Date: Not yet scheduled
+🌐 Location: Banani, Dhaka, Bangladesh (GMT+6) – On-site
+🧭 Platform: Email application
+⏳ Status: 🟡 Pending
+📞  Follow-Up way: connect@thinkcrypt.dev
+</code></pre>
+
+🔗 [Company Website](https://thinkcrypt.dev) `url` <br />
+🔗 [Job Link](https://thinkcrypt.dev) `link: first 30 chars...`
+
+---
