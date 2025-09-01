@@ -220,3 +220,23 @@ s
 🔗 [Job Link](https://www.facebook.com/job_opening/Chardike-Frontend-Developer) `link: https://www.facebook.com/job_...`
 
 ---
+
+### 77.06 `🏢 Fbinternational BD — Frontend Developer - onsite - 30/08/25 - BDT 18,000–25,000`
+
+<pre><code>
+📅 Applied On: 01/09/25 2025-09-01
+💰 Stipend/Salary : 18,000–25,000 BDT ≈ 18,000–25,000 BDT / Monthly
+⏰ Hours: Bangladesh Time (GMT+6) → 9 AM – 6 PM
+🧰 Stack: HTML, CSS, JavaScript, Responsive Design, Accessibility
+❌ Lack Stack: WordPress (Elementor), Shopify, SEO, Figma/XD conversion tools
+📆 Interview Date: Not yet scheduled
+🌐 Location: Banasree, Rampura, Dhaka — GMT+6
+🧭 Platform: Google Form Application
+⏳ Status: 🟡 Pending
+📞  Follow-Up way: via application form
+</code></pre>
+
+🔗 [Company Website](https://www.facebook.com/FbinternationalBD) `https://www.facebook.com/Fbin...` <br />
+🔗 [Job Link](https://forms.gle/DpbScJ6Va7DmXHYs6) `link: https://forms.gle/DpbScJ6Va7...`
+
+---
