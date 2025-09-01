@@ -280,3 +280,23 @@ s
 🔗 [Job Link](https://www.bdjobs.com/jobdetails.asp?id=) `link: first 30 chars...`
 
 ---
+
+### 80.09 `🏢 Reachable Ads — React Frontend Developer - onsite - 01/09/25 - BDT salary not mentioned`
+
+<pre><code>
+📅 Applied On: 01/09/25 2025-09-01
+💰 Stipend/Salary : Not mentioned ≈ Cannot convert BDT / Monthly
+⏰ Hours: Bangladesh Time (GMT+6) → Local Office Hours
+🧰 Stack: JavaScript, HTML, CSS, React.js, Redux Toolkit, Material-UI/Ant Design, Git, REST APIs
+❌ Lack Stack: redux toolkit, mui, ant design
+📆 Interview Date: Not yet scheduled
+🌐 Location: Gulshan, Dhaka, Bangladesh (GMT+6)
+🧭 Platform: Email application
+⏳ Status: 🟡 Pending
+📞  Follow-Up way: career@reachableads.com
+</code></pre>
+
+🔗 [Company Website](https://reachableads.com) `url` <br />
+🔗 [Job Link](https://www.facebook.com/job_opening/React-Frontend-Developer-Gulshan) `link: first 30 chars...`
+
+---
