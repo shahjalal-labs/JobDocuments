@@ -320,3 +320,23 @@ s
 🔗 [Job Link](https://www.facebook.com/photo/?fbid=4181842785417407&set=gm.2283409965439396&idorvanity=1398646047249130) `link: https://www.linkedin.com/jobs/view/...`
 
 ---
+
+### 81.11 `🏢 Hishabee Technologies Limited — Frontend Developer Intern - hybrid - 01/09/25 - BDT 10,000`
+
+<pre><code>
+📅 Applied On: 01/09/25 2025-09-01
+💰 Stipend/Salary : 10,000 BDT ≈ 10,000 BDT / Monthly
+⏰ Hours: Bangladesh Time (GMT+6) → Local Office Hours
+🧰 Stack: HTML5, CSS3, JavaScript (ES6+), React, Next.js, Tailwind CSS, REST APIs, Git
+❌ Lack Stack: typescript
+📆 Interview Date: Not yet scheduled
+🌐 Location: Panthapath, Dhaka, Bangladesh (GMT+6) – Hybrid
+🧭 Platform: Google Form Application
+⏳ Status: 🟡 Pending
+📞  Follow-Up way:  via Google Form
+</code></pre>
+
+🔗 [Company Website](https://hishabee.busines) `url` <br />
+🔗 [Job Link](https://forms.gle/p3Emw2p6D3zYiBrZ7) `link: first 30 chars...`
+
+---
