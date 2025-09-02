@@ -360,3 +360,24 @@ s
 🔗 [Job Link](https://thinkcrypt.dev) `link: first 30 chars...`
 
 ---
+
+`02/09/2025 10:03 পূর্বাহ্ণ মঙ্গল GMT+6 Sharifpur, Gazipur, Dhaka`
+
+### 83.01 `🏢 Unknown Startup — Web Developer Intern - remote - 02/09/25 - BDT stipend (negotiable)`
+
+<pre><code>
+📅 Applied On: 02/09/25 2025-09-02
+💰 Stipend/Salary : Negotiable Stipend ≈ 5,000–15,000 BDT / Monthly
+⏰ Hours: Bangladesh Time (GMT+6) → Fully Flexible (Remote)
+🧰 Stack: HTML, CSS, JavaScript
+❌ Lack Stack: mysql, postgres, redis, docker, nginx, aws, gcp, azure
+📆 Interview Date: Not yet scheduled
+🌐 Location: Fully Remote (No timezone restriction)
+🧭 Platform: Google Form Application
+⏳ Status: 🟡 Pending
+</code></pre>
+
+🔗 [Company Website](url) `url` <br />
+🔗 [Job Link](https://docs.google.com/forms/d/e/1FAIpQLSeJviDRpKS1eOnfQJNH0M6GNrgr8m0k8G1wtBXwN5F8Y7q1mA/viewform) `link: https://docs.google.com/.../viewform`
+
+---
