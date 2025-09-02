@@ -401,3 +401,23 @@ s
 🔗 [Job Link](link) `link: first 30 chars...`
 
 ---
+
+### 85.03 `🏢 VISAThing — Frontend Developer / Intern - onsite - 02/09/25 - BDT 10K–25K`
+
+<pre><code>
+📅 Applied On: 02/09/25 2025-09-02
+💰 Stipend/Salary : 10K–25K BDT / Monthly
+⏰ Hours: Bangladesh Time → Onsite Dhaka Office
+🧰 Stack: React.js, Next.js, TypeScript, Tailwind CSS, Redux Toolkit, TanStack Query, REST APIs, Git
+❌ Lack Stack: TypeScript, Redux Toolkit, Ant Design, SEO best practices
+📆 Interview Date: Not yet scheduled
+🌐 Location: Level 05 TAA-111, Tropical Maanco Tower, Gulshan-Badda Link Rd, Dhaka 1212 (GMT+6)
+🧭 Platform: Google Form
+⏳ Status: 🟡 Pending
+📞  Follow-Up way: career@visathing.com
+</code></pre>
+
+🔗 [Company Website](https://www.visathing.com) `https://www.visathing.com` <br />
+🔗 [Job Link](https://forms.gle/6VuK6zizCWZM7uRs5) `link: https://forms.gle/6VuK6zizCW...`
+
+---
