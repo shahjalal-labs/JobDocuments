@@ -381,3 +381,23 @@ s
 🔗 [Job Link](https://docs.google.com/forms/d/e/1FAIpQLSeJviDRpKS1eOnfQJNH0M6GNrgr8m0k8G1wtBXwN5F8Y7q1mA/viewform) `link: https://docs.google.com/.../viewform`
 
 ---
+
+### 84.02 `🏢 Qwik IT Services — Full Stack Developer - remote - 02/09/25 - Negotiable BDT salary`
+
+<pre><code>
+📅 Applied On: 02/09/25 2025-09-02
+💰 Stipend/Salary : Negotiable ≈ 82,000–141,000 BDT / Monthly
+⏰ Hours: Bangladesh Time (GMT+6) → Flexible (Remote)
+🧰 Stack: React.js, Next.js, JavaScript/TypeScript, Django REST, PostgreSQL, MySQL, MongoDB
+❌ Lack Stack: redis, react native, flutter, docker, nginx, aws, gcp, azure, figma, sketch
+📆 Interview Date: Not yet scheduled
+🌐 Location: Remote (Global) | Timezone: Flexible
+🧭 Platform: Email Application
+⏳ Status: 🟡 Pending
+📞  Follow-Up way: career@qwikit.ca
+</code></pre>
+
+🔗 [Company Website](url) `url` <br />
+🔗 [Job Link](link) `link: first 30 chars...`
+
+---
