@@ -441,3 +441,23 @@ s
 🔗 [Job Link](link) `link: first 30 chars...`
 
 ---
+
+### 86.05 `🏢 ABSS — Frontend/Node.js Developer (Intern/Experienced) - remote - 02/09/25 - BDT 8,775 – 20,475`
+
+<pre><code>
+📅 Applied On: 02/09/25 2025-09-02
+💰 Stipend/Salary : $75 – $175 ≈ BDT 8,775 – 20,475 / Monthly
+⏰ Hours: Bangladesh Time (flexible) → Remote (timezone not specified)
+🧰 Stack: HTML, CSS, JavaScript, React, Next.js, APIs, Node.js
+❌ Lack Stack: redux
+📆 Interview Date: Not yet scheduled
+🌐 Location: Remote (company is remote-first) — Async timezone
+🧭 Platform: Email Application
+⏳ Status: 🟡 Pending
+📞  Follow-Up way: info@abss.tech
+</code></pre>
+
+🔗 [Company Website](https://www.abss.tech) `https://www.abss.tech` <br />
+🔗 [Job Link](link) `link: first 30 chars...`
+
+---
