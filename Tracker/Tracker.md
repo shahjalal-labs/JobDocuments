@@ -421,3 +421,23 @@ s
 🔗 [Job Link](https://forms.gle/6VuK6zizCWZM7uRs5) `link: https://forms.gle/6VuK6zizCW...`
 
 ---
+
+### 86.04 `🏢 Reputed Software Company — Full Stack Developer (ReactJS & Node.js) - onsite - 02/09/25 - BDT 50,000 – 60,000`
+
+<pre><code>
+📅 Applied On: 02/09/25 2025-09-02
+💰 Stipend/Salary : Tk 50,000 – 60,000 ≈ BDT 50,000 – 60,000 / Monthly
+⏰ Hours: Bangladesh Time (9 AM – 6 PM) → GMT+6 (same)
+🧰 Stack: ReactJS, Node.js, PostgreSQL, MySQL, GitLab CI/CD
+❌ Lack Stack: PostgreSQL, MySQL, GitLab CI/CD
+📆 Interview Date: Not yet scheduled
+🌐 Location: New Eskaton Road, Dhaka 1217 — GMT+6
+🧭 Platform: Email Application
+⏳ Status: 🟡 Pending
+📞  Follow-Up way: arafatrnscareer@gmail.com
+</code></pre>
+
+🔗 [Company Website](url) `url` <br />
+🔗 [Job Link](link) `link: first 30 chars...`
+
+---
