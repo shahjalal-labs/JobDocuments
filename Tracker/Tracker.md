@@ -461,3 +461,23 @@ s
 🔗 [Job Link](link) `link: first 30 chars...`
 
 ---
+
+### 87.06 `🏢 Bright Future Soft — Full Stack Developer Intern (MERN + Flutter) - remote - 03/09/25 - BDT 13,000`
+
+<pre><code>
+📅 Applied On: 03/09/25 2025-09-03
+💰 Stipend/Salary : 13,000 BDT ≈ 13,000 BDT / Monthly
+⏰ Hours: Bangladesh Time (2:00 PM – 10:00 PM) → Original Timezone (same GMT+6)
+🧰 Stack: React.js, Node.js, Express, MongoDB, Flutter, Git/GitHub
+❌ Lack Stack: Flutter, mysql, postgres, redis, docker, nginx, aws, gcp, azure
+📆 Interview Date: Not yet scheduled
+🌐 Location: Remote, Bangladesh Time (GMT+6)
+🧭 Platform: Apply via company website form
+⏳ Status: 🟡 Pending
+📞  Follow-Up way: career@brightfuturesoft.com
+</code></pre>
+
+🔗 [Company Website](https://www.brightfuturesoft.com) `https://www.brightfuturesoft.com` <br />
+🔗 [Job Link](https://www.brightfuturesoft.com/careers/68b5a1f5b37257b08fdc9597?fbclid=IwY2xjawMlJ5tleHRuA2FlbQIxMABicmlkETEwVDFBVjBmWGVqSXRKd1luAR6vQIdbYTprxzNxSuVJkk7DHlZNKn4WRj9lbN-x_acoAlatdoWbP_Aa6JYZmA_aem_hxS-SirLq0rsI3436oUxHg) `link: https://www.brightfuturesoft.com/...`
+
+---
