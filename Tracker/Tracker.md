@@ -56,6 +56,26 @@
 </code></pre>
 
 🔗 [Company Website](https://monkhub.com) `https://monkhub.com` <br />
-🔗 [Job Link](https://internshala.com/job/detail/front-end-developer-job-in-gurgaon-at-monkhub169...) `link: https://internshala.com/job/...
+🔗 [Job Link]() `link: https://internshala.com/job/...
+
+---
+
+### 91.04 `🏢 Fingertipplus — Full Stack Developer - remote - 04/09/25 - BDT 33,000`
+
+<pre><code>
+📅 Applied On: 04/09/25 2025-09-04
+💰 Stipend/Salary : ₹3,00,000 ≈ BDT 33,000 / Monthly
+⏰ Hours: Bangladesh Time → Finland HQ (GMT+6 → GMT+2), India office (GMT+6 → GMT+5:30)
+🧰 Stack: Python, React, HTML, CSS, JavaScript
+❌ Lack Stack: Python, Salesforce CRM, Angular, Software Testing (JS)
+📆 Interview Date: Not yet scheduled
+🌐 Location: Remote (HQ Helsinki, Finland; offices Bangalore, Oman)
+🧭 Platform: Internshala application
+⏳ Status: 🟡 Pending
+📞 Follow-Up way: hr@fingertipplus.com
+</code></pre>
+
+🔗 [Company Website](https://fingertipplus.com) `https://fingertipplus.com` <br />
+🔗 [Job Link](https://internshala.com/job/detail/full-stack-developer-work-from-home-job-at-fingertipplus172...) `link: https://internshala.com/job/det...`
 
 ---
