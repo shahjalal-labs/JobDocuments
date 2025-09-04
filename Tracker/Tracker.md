@@ -99,3 +99,23 @@
 🔗 [Job Link](https://internshala.com/job/full-stack-developer-blinker-technology) `https://internshala.com/job/full-st...`
 
 ---
+
+### 93.06 `🏢 Crafting Future — Associate Full Stack Developer - remote - 25/09/25 - BDT 45,800–54,500 / Monthly`
+
+<pre><code>
+📅 Applied On: 04/09/25 2025-09-04
+💰 Stipend/Salary : ₹4,20,000–5,00,000 ≈ BDT 45,800–54,500 / Monthly
+⏰ Hours: Bangladesh Time → 20–25 hrs/week (Original: IST, GMT+5:30)
+🧰 Stack: HTML, CSS, JavaScript, React, Node.js, Express.js, MongoDB/MySQL, Git/GitHub
+❌ Lack Stack: MySQL, Heroku, Vercel
+📆 Interview Date: Not yet scheduled
+🌐 Location: Remote (India, GMT+5:30)
+🧭 Platform: Internshala Application
+⏳ Status: 🟡 Pending
+📞  Follow-Up way: career@craftingfuture.io
+</code></pre>
+
+🔗 [Company Website](https://craftingfuture.in) `https://craftingfuture.in` <br />
+🔗 [Job Link](https://internshala.com/job/detail/fresher-remote-associate-full-stack-developer-job-at-crafting-future1756192258) `link: internshala.com/job/detail/asso...`
+
+---
