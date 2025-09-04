@@ -79,3 +79,23 @@
 🔗 [Job Link](https://internshala.com/job/detail/full-stack-developer-work-from-home-job-at-fingertipplus172...) `link: https://internshala.com/job/det...`
 
 ---
+
+### 92.05 `🏢 Blinker Technology — Full Stack Developer - remote - 02/10/25 - BDT 26k–36k`
+
+<pre><code>
+📅 Applied On: 04/09/25 2025-09-04
+💰 Stipend/Salary : ₹2,90,000–4,00,000 ≈ BDT 26,000–36,000 / Monthly
+⏰ Hours: Bangladesh Time (GMT+6) → Hong Kong Time (GMT+8)
+🧰 Stack: JavaScript, HTML, CSS, React, Node.js, Next.js, MySQL, AWS EC2, AWS S3, React Native
+❌ Lack Stack: mysql, aws, react-native
+📆 Interview Date: Not yet scheduled
+🌐 Location: Remote — Hong Kong (GMT+8)
+🧭 Platform: Internshala portal
+⏳ Status: 🟡 Pending
+📞  Follow-Up way:  career@blinkertech.com
+</code></pre>
+
+🔗 [Company Website](https://blinkertech.com) `https://blinkertech.com` <br />
+🔗 [Job Link](https://internshala.com/job/full-stack-developer-blinker-technology) `https://internshala.com/job/full-st...`
+
+---
