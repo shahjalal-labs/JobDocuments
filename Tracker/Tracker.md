@@ -39,3 +39,23 @@
 🔗 [Job Link](N/A) `link: N/A`
 
 ---
+
+### 90.03 `🏢 Monkhub — Front End Developer - onsite - 04/09/25 - BDT 3,15,000–6,30,000`
+
+<pre><code>
+📅 Applied On: 04/09/25 2025-09-04
+💰 Stipend/Salary : ₹3,00,000–6,00,000 / year ≈ BDT 3,15,000–6,30,000 / Monthly
+⏰ Hours: Bangladesh Time → India Time (GMT+5:30)
+🧰 Stack: React.js, Redux, JavaScript, HTML5, CSS3, REST API, Git
+❌ Lack Stack: redux, typescript, bootstrap, material ui, angular, mysql, postgres, redis, docker, nginx, aws, gcp, azure, firebase, netlify, surge, figma, sketch
+📆 Interview Date: Not yet scheduled
+🌐 Location: Gurgaon (On-site) + GMT+5:30
+🧭 Platform: Internshala job portal
+⏳ Status: 🟡 Pending
+📞  Follow-Up way: hr@monkhub.com
+</code></pre>
+
+🔗 [Company Website](https://monkhub.com) `https://monkhub.com` <br />
+🔗 [Job Link](https://internshala.com/job/detail/front-end-developer-job-in-gurgaon-at-monkhub169...) `link: https://internshala.com/job/...
+
+---
