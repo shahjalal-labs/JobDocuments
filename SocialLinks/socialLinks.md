@@ -17,3 +17,6 @@ https://www.linkedin.com/in/shahjalal-labs
 ### facebook
 
 https://www.facebook.com/shahjalal.labs
+
+never join
+Softvence/SparkTech/ScaleUp/sm tech
