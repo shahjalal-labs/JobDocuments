@@ -374,7 +374,7 @@
 </code></pre>
 
 🔗 [Company Website](https://planet-education.com)  
-🔗 [Job Link](https://www.linkedin.com/jobs/view/4270392531)
+🔗 [Job Link](https://bd.linkedin.com/jobs/view/react-developer-at-planet-education-networks-4283292919)
 
 ---
 
