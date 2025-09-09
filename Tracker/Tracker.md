@@ -140,3 +140,25 @@
 🔗 [Job Link](link) `link: first 30 chars...`
 
 ---
+
+`10/09/2025 05:38 পূর্বাহ্ণ বুধ GMT+6 Sharifpur, Gazipur, Dhaka`
+
+### 95.01 `🏢 Stealth Startup — Full-Stack Engineer - hybrid - 10/09/25 - BDT salary`
+
+<pre><code>
+📅 Applied On: 10/09/25 2025-09-10
+💰 Stipend/Salary : Not mentioned ≈ Not converted / Monthly
+⏰ Hours: Bangladesh Time (10:00–18:00) → Same as Original
+🧰 Stack: Next.js 13+, React 18, Node/Nest, TypeScript, Git
+❌ Lack Stack: docker, aws, digitalocean, typescript, next.js advanced, python (fastapi/flask)
+📆 Interview Date: Not yet scheduled
+🌐 Location: Dhaka hybrid (GMT+6)
+🧭 Platform: Application form (LinkedIn link)
+⏳ Status: 🟡 Pending
+📞  Follow-Up way:  career@remoteoffice.io
+</code></pre>
+
+🔗 [Company Website](https://lnkd.in/gEreZVyH) `url` <br />
+🔗 [Job Link](https://lnkd.in/gEreZVyH) `link: https://lnkd.in/gEreZVyH...`
+
+---
