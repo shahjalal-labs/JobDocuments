@@ -119,3 +119,24 @@
 🔗 [Job Link](https://internshala.com/job/detail/fresher-remote-associate-full-stack-developer-job-at-crafting-future1756192258) `link: internshala.com/job/detail/asso...`
 
 ---
+
+` 09/09/2025 08:31 পূর্বাহ্ণ মঙ্গল GMT+6 Sharifpur, Gazipur, Dhaka`
+
+### 94.07 `🏢 Anirix — Frontend Developer - remote - 09/09/25 - 15,000 BDT`
+
+<pre><code>
+📅 Applied On: 09/09/25 2025-09-09💰 Stipend/Salary : 15,000 BDT ≈ 15,000 BDT / Monthly
+⏰ Hours: Bangladesh Time (9 AM – 6 PM) → Original Timezone (same GMT+6)
+🧰 Stack: Next.js, React, Redux, TypeScript, Zod, Three.js
+❌ Lack Stack: redux, typescript, zod, three.js
+📆 Interview Date: Not yet scheduled
+🌐 Location: Remote (Bangladesh-based holidays, GMT+6)
+🧭 Platform: Apply via email (1008yohan@gmail.com)
+⏳ Status: 🟡 Pending
+📞  Follow-Up way:  1008yohan@gmail.com
+</code></pre>
+
+🔗 [Company Website](url) `url` <br />
+🔗 [Job Link](link) `link: first 30 chars...`
+
+---
