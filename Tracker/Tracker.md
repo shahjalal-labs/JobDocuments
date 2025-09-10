@@ -242,3 +242,43 @@
 🔗 [Job Link](Copied from description) `link: We're Hiring: Front-End Devel...`
 
 ---
+
+### 98.06 `🏢 MakTech Solution — Frontend & Backend Developers - onsite - 20/07/25 - Negotiable (≈30,000–80,000 BDT)`
+
+<pre><code>
+📅 Applied On: 10/09/25 2025-09-10
+💰 Stipend/Salary : Negotiable ≈ 30,000–80,000 BDT / Monthly
+⏰ Hours: Bangladesh Time (GMT+6) → 8:30 AM – 5:30 PM (6 days/week)
+🧰 Stack: React.js, Next.js, Tailwind CSS, Node.js, Express.js, PostgreSQL, MySQL, JWT
+❌ Lack Stack: redux, zustand, prisma, sequelize, knex, docker, nginx, aws, gcp, azure
+📆 Interview Date: Not yet scheduled
+🌐 Location: 6th Floor, A Majid Tower, Ka-24 Progati Sarani Rd, Dhaka 1229 (GMT+6)
+🧭 Platform: Google Form Application
+⏳ Status: 🟡 Pending
+📞  Follow-Up way: 01955885251 (WhatsApp)
+</code></pre>
+
+🔗 [Company Website](https://maktechsolution.com) `https://maktechsolution.com` <br />
+🔗 [Job Link](https://forms.gle/iAJ4w6AnvJcNt4zeA) `link: https://forms.gle/iAJ4w6AnvJcNt...`
+
+---
+
+### 99.07 `🏢 Fronture Technologies Limited — Frontend Developer - onsite - 10/09/25 - Negotiable (≈50,000–120,000 BDT)`
+
+<pre><code>
+📅 Applied On: 10/09/25 2025-09-10
+💰 Stipend/Salary : Negotiable ≈ 50,000–120,000 BDT / Monthly
+⏰ Hours: Bangladesh Time (GMT+6) → Monday–Friday, 9 hours/day
+🧰 Stack: React.js, Next.js, HTML, CSS, JavaScript, TypeScript, Tailwind CSS, API integration
+❌ Lack Stack: Angular, Vue, PHP, redux, zustand, prisma, docker, aws, gcp, azure
+📆 Interview Date: Not yet scheduled
+🌐 Location: Moghbazar, Dhaka (GMT+6)
+🧭 Platform: Email Application
+⏳ Status: 🟡 Pending
+📞  Follow-Up way: hiring@fronturetech.com
+</code></pre>
+
+🔗 [Company Website](https://fronturetech.com) `https://fronturetech.com` <br />
+🔗 [Job Link](https://www.facebook.com/fronturetech/posts/xyz) `link: We’re Hiring: Frontend Developer ...`
+
+---
