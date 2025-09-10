@@ -202,3 +202,43 @@
 🔗 [Job Link](N/A) `link: N/A...`
 
 ---
+
+### 97.04 `🏢 Hello Coders — Web Developer - onsite - 10/09/25 - Negotiable ≈ 25,000–50,000 BDT salary`
+
+<pre><code>
+📅 Applied On: 10/09/25 2025-09-10
+💰 Stipend/Salary : Negotiable ≈ 25,000–50,000 BDT / Monthly
+⏰ Hours: Bangladesh Time (GMT+6) → Local Office Time
+🧰 Stack: HTML5, CSS3, Bootstrap 5, Tailwind CSS, Laravel (PHP), OOP in PHP
+❌ Lack Stack: mysql, postgres, redis, docker, nginx, aws, gcp, azure, firebase, netlify, surge, figma
+📆 Interview Date: Not yet scheduled
+🌐 Location: Thana-Road, Dhamrai, Dhaka-1350 (GMT+6)
+🧭 Platform: Email Application
+⏳ Status: 🟡 Pending
+📞  Follow-Up way: hellocoders.info@gmail.com
+</code></pre>
+
+🔗 [Company Website](https://hellocodersbd.com) `https://hellocodersbd.com` <br />
+🔗 [Job Link](https://hellocodersbd.com/career_details/6) `link: https://hellocodersbd.com/career_...`
+
+---
+
+### 97.05 `🏢 Atmosphere Venture Ltd — Front-End Developer (Intern) - remote - 10/09/25 - ≈ 0–15,000 BDT salary`
+
+<pre><code>
+📅 Applied On: 10/09/25 2025-09-10
+💰 Stipend/Salary : Not specified ≈ 0–15,000 BDT / Monthly
+⏰ Hours: Bangladesh Time (GMT+6) → Remote Flexible Hours
+🧰 Stack: HTML, CSS, JavaScript, React, Next.js, Tailwind CSS
+❌ Lack Stack: vue, framer-motion, gsap, mysql, postgres, redis, docker, nginx, aws, gcp, azure
+📆 Interview Date: Not yet scheduled
+🌐 Location: Remote (Timezone flexible, supports GMT+6)
+🧭 Platform: Email / Direct Message
+⏳ Status: 🟡 Pending
+📞  Follow-Up way: atmosphereventuresltd@gmail.com
+</code></pre>
+
+🔗 [Company Website](https://atmosphereventuresltd.com) `https://atmosphereventuresltd.com` <br />
+🔗 [Job Link](Copied from description) `link: We're Hiring: Front-End Devel...`
+
+---
