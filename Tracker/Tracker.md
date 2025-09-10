@@ -162,3 +162,43 @@
 🔗 [Job Link](https://lnkd.in/gEreZVyH) `link: https://lnkd.in/gEreZVyH...`
 
 ---
+
+### 96.02 `🏢 SparkTech — Junior Backend Developer - onsite - 10/09/25 - BDT 20,500–40,000`
+
+<pre><code>
+📅 Applied On: 10/09/25 2025-09-10
+💰 Stipend/Salary : BDT 20,500–40,000 ≈ BDT 20,500–40,000 / Monthly
+⏰ Hours: Bangladesh Time (09:00–18:00) → Same as Original
+🧰 Stack: Node.js, Mongoose, TypeScript
+❌ Lack Stack: typescript, rtk query, next.js advanced, react advanced
+📆 Interview Date: Not yet scheduled
+🌐 Location: Aqua Tower, Mohakhali, Dhaka (GMT+6)
+🧭 Platform: Email application
+⏳ Status: 🟡 Pending
+📞  Follow-Up way:  abujakaria.ph@gmail.com
+</code></pre>
+
+🔗 [Company Website](url) `url` <br />
+🔗 [Job Link](N/A) `link: N/A...`
+
+---
+
+### 96.03 `🏢 Amaanah Soft — React.js Developer - remote - 10/09/25 - BDT Negotiable`
+
+<pre><code>
+📅 Applied On: 10/09/25 2025-09-10
+💰 Stipend/Salary : Negotiable ≈ Not converted / Monthly
+⏰ Hours: Bangladesh Time (Flexible Remote) → Original not specified
+🧰 Stack: React.js, Next.js, Tailwind CSS, Shadcn UI, Redux/Context/Zustand, React Hook Form/Formik, Performance Optimization
+❌ Lack Stack: shadcn ui, redux toolkit/zustand advanced
+📆 Interview Date: Not yet scheduled
+🌐 Location: Remote (Bangladesh-based, GMT+6)
+🧭 Platform: Email application
+⏳ Status: 🟡 Pending
+📞  Follow-Up way:  amaanahsoft@gmail.com
+</code></pre>
+
+🔗 [Company Website](url) `url` <br />
+🔗 [Job Link](N/A) `link: N/A...`
+
+---
